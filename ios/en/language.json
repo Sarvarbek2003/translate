@@ -1,0 +1,2020 @@
+{
+    "list": [
+      {
+        "key": "en",
+        "value": "English"
+      },
+      {
+        "key": "ru",
+        "value": "Русский язык"
+      },
+      {
+        "key": "kaa",
+        "value": "Qaraqalpaq tili"
+      },
+      {
+        "key": "uz",
+        "value": "O’zbek tili"
+      },
+      {
+        "key": "app_name",
+        "value": "AgroMobileRebrand"
+      },
+      {
+        "key": "bank_name",
+        "value": "Agrobank"
+      },
+      {
+        "key": "registration_text",
+        "value": "Registration"
+      },
+      {
+        "key": "regphonenumber_desc",
+        "value": "Enter your phone number to start"
+      },
+      {
+        "key": "number_telephone",
+        "value": "Phone number"
+      },
+      {
+        "key": "code_from_sms",
+        "value": "SMS code"
+      },
+      {
+        "key": "resend_code",
+        "value": "Send code again"
+      },
+      {
+        "key": "enter_pincode",
+        "value": "Create PIN-code"
+      },
+      {
+        "key": "next_button",
+        "value": "Next"
+      },
+      {
+        "key": "sms_code_phone_number",
+        "value": "The activation code has been sent to the number"
+      },
+      {
+        "key": "pin_kodni_tasdiqlash",
+        "value": "Confirm PIN"
+      },
+      {
+        "key": "zabil_pin_text",
+        "value": "Forgot your code?"
+      },
+      {
+        "key": "enter_your_pin",
+        "value": "Enter your PIN"
+      },
+      {
+        "key": "password_max_min_char",
+        "value": "from 8 and not more than 20 characters;"
+      },
+      {
+        "key": "uppercase_and_lovercase_letters",
+        "value": "at least one uppercase and one lowercase letter;"
+      },
+      {
+        "key": "latin_and_cril_letters",
+        "value": "only Latin or Cyrillic letters;"
+      },
+      {
+        "key": "add_single_character",
+        "value": "at least one digit;"
+      },
+      {
+        "key": "arabiski_sifra",
+        "value": "only Arabic numerals (0–9);"
+      },
+      {
+        "key": "special_character",
+        "value": "at least one special character;"
+      },
+      {
+        "key": "pasword_unmatch",
+        "value": "Passwords are different"
+      },
+      {
+        "key": "wrong_password",
+        "value": "Wrong password"
+      },
+      {
+        "key": "main_menu",
+        "value": "Main"
+      },
+      {
+        "key": "payment_menu",
+        "value": "Payment"
+      },
+      {
+        "key": "hisotory_menu",
+        "value": "History"
+      },
+      {
+        "key": "showcase_menu",
+        "value": "Showcase"
+      },
+      {
+        "key": "chat_menu",
+        "value": "Chat"
+      },
+      {
+        "key": "konstantin",
+        "value": "User"
+      },
+      {
+        "key": "last_operations",
+        "value": "Recent Operations"
+      },
+      {
+        "key": "branches",
+        "value": "ATMs and branches"
+      },
+      {
+        "key": "all_my_products",
+        "value": "My products"
+      },
+      {
+        "key": "create_card_button",
+        "value": "New card, deposit, loan"
+      },
+      {
+        "key": "deposit",
+        "value": "Contributions"
+      },
+      {
+        "key": "credits",
+        "value": "Loans"
+      },
+      {
+        "key": "my_card_toolbar_title",
+        "value": "My card"
+      },
+      {
+        "key": "replenish",
+        "value": "Top up"
+      },
+      {
+        "key": "bank_details",
+        "value": "Requisites and subscriptions"
+      },
+      {
+        "key": "cash_withdrawal",
+        "value": "Cash withdrawal"
+      },
+      {
+        "key": "request_pincode",
+        "value": "Ask for a PIN while paying"
+      },
+      {
+        "key": "notification",
+        "value": "Transaction Alerts"
+      },
+      {
+        "key": "settings_bottomsheet",
+        "value": "Settings"
+      },
+      {
+        "key": "save_bottomsheet",
+        "value": "Save"
+      },
+      {
+        "key": "detail_settings",
+        "value": "Show requisites"
+      },
+      {
+        "key": "agropay_add",
+        "value": "Add to AgroPay"
+      },
+      {
+        "key": "cvv",
+        "value": "Get CVV code"
+      },
+      {
+        "key": "edit_pincode",
+        "value": "Change PIN-code"
+      },
+      {
+        "key": "block_card",
+        "value": "Block the card"
+      },
+      {
+        "key": "exit_card",
+        "value": "Delete the card"
+      },
+      {
+        "key": "all_card_screen_title",
+        "value": "New card"
+      },
+      {
+        "key": "all_card_screen_desc_card",
+        "value": "Payment for purchases, utility bills, transferring money to cards of any banks"
+      },
+      {
+        "key": "card_design",
+        "value": "Card design"
+      },
+      {
+        "key": "expire_date",
+        "value": "Validity"
+      },
+      {
+        "key": "transfer_agrobank_card",
+        "value": "Transfers between cards of Agrobank"
+      },
+      {
+        "key": "adventages_card",
+        "value": "Card advantages"
+      },
+      {
+        "key": "all_card_screen_block_card",
+        "value": "In case of loss, the card is blocked through the mobile application and the money remains in the account"
+      },
+      {
+        "key": "contactless_payment",
+        "value": "Contactless payment with Pay Pass"
+      },
+      {
+        "key": "every_accept",
+        "value": "Accepted everywhere: in shops, hotels, gas stations"
+      },
+      {
+        "key": "atm",
+        "value": "Four thousand ATMs at hand"
+      },
+      {
+        "key": "feature_card",
+        "value": "About card features"
+      },
+      {
+        "key": "service_rates",
+        "value": "Service rates"
+      },
+      {
+        "key": "all_card_screen_button",
+        "value": "Issue a card"
+      },
+      {
+        "key": "all_credit_screen_toolbar",
+        "value": "New credit"
+      },
+      {
+        "key": "all_credit_calculate",
+        "value": "Calculate conditions"
+      },
+      {
+        "key": "all_credit_personal_apps",
+        "value": "Personal app"
+      },
+      {
+        "key": "all_credit_education_loan",
+        "value": "Educational credit"
+      },
+      {
+        "key": "all_credit_screen_sum_credit",
+        "value": "Credit amount"
+      },
+      {
+        "key": "all_credit_screen_expire_credit",
+        "value": "Payment date"
+      },
+      {
+        "key": "all_credit_screen_disabled_person_credit",
+        "value": "Rate for the disabled and orphans"
+      },
+      {
+        "key": "percent_rate",
+        "value": "Interest rate"
+      },
+      {
+        "key": "adventage_credit",
+        "value": "Credit benefits"
+      },
+      {
+        "key": "first_adv_credit",
+        "value": "0% rate for orphans, children from orphanages, disabled people of groups I and II from childhood"
+      },
+      {
+        "key": "second_adv_credit",
+        "value": "Any university in Uzbekistan"
+      },
+      {
+        "key": "third_adv_credit",
+        "value": "Fast payment at ATMs without commission"
+      },
+      {
+        "key": "fourth_adv_credit",
+        "value": "Approval online within minutes"
+      },
+      {
+        "key": "hint_enter_summ",
+        "value": "Amount up to 20 000 000 sum"
+      },
+      {
+        "key": "hint_enter_date",
+        "value": "Up to 3 years"
+      },
+      {
+        "key": "rate_info",
+        "value": "Rate"
+      },
+      {
+        "key": "payment_mothly",
+        "value": "Monthly payment"
+      },
+      {
+        "key": "rules_credit",
+        "value": "Requirements for borrowers"
+      },
+      {
+        "key": "more_information",
+        "value": "Open Detailed Calculation"
+      },
+      {
+        "key": "next_button_all_credit",
+        "value": "Submit application"
+      },
+      {
+        "key": "profil_toolbar_title",
+        "value": "Profile"
+      },
+      {
+        "key": "security_toolbar_title",
+        "value": "Safety"
+      },
+      {
+        "key": "passport",
+        "value": "Pasport"
+      },
+      {
+        "key": "tin",
+        "value": "TIN"
+      },
+      {
+        "key": "my_address",
+        "value": "My addresses"
+      },
+      {
+        "key": "profil_settings",
+        "value": "Settings"
+      },
+      {
+        "key": "answer",
+        "value": "Questions and answers"
+      },
+      {
+        "key": "about_apps",
+        "value": "About the app"
+      },
+      {
+        "key": "exit_profil",
+        "value": "Exit"
+      },
+      {
+        "key": "On_success",
+        "value": "Paid"
+      },
+      {
+        "key": "on_succcessful",
+        "value": "You have successfully paid"
+      },
+      {
+        "key": "To_main",
+        "value": "To the main"
+      },
+      {
+        "key": "show_chek",
+        "value": "Show receipt and details"
+      },
+      {
+        "key": "On_error",
+        "value": "Payment failed"
+      },
+      {
+        "key": "On_error_message",
+        "value": "We have not received your payment, please try again"
+      },
+      {
+        "key": "on_error_button",
+        "value": "Try again"
+      },
+      {
+        "key": "write_help",
+        "value": "Write to support"
+      },
+      {
+        "key": "succes_text",
+        "value": "The sum card will be delivered on December 20 to the address. Sagban, 1. When ready, the courier will contact you."
+      },
+      {
+        "key": "card_number_payment",
+        "value": "By card number"
+      },
+      {
+        "key": "phone_payment",
+        "value": "By phone number"
+      },
+      {
+        "key": "account_number",
+        "value": "By account number"
+      },
+      {
+        "key": "abroad",
+        "value": "Abroad"
+      },
+      {
+        "key": "between_account_number",
+        "value": "Between your accounts"
+      },
+      {
+        "key": "qr_toolbar_title",
+        "value": "QR payment"
+      },
+      {
+        "key": "qr_screen_hint",
+        "value": "Point your camera at the QR code"
+      },
+      {
+        "key": "qr_card_toolbar",
+        "value": "QR for replenishment"
+      },
+      {
+        "key": "qr_code_send",
+        "value": "Show or send the QR code to someone who wants to send you money"
+      },
+      {
+        "key": "share_btn",
+        "value": "Share"
+      },
+      {
+        "key": "payscreen_toolbar",
+        "value": "Pay"
+      },
+      {
+        "key": "organization",
+        "value": "Organization"
+      },
+      {
+        "key": "select_org",
+        "value": "Choose"
+      },
+      {
+        "key": "check_info",
+        "value": "Check if all information is filled in correctly"
+      },
+      {
+        "key": "from_card",
+        "value": "From card"
+      },
+      {
+        "key": "personal_number",
+        "value": "Personal account"
+      },
+      {
+        "key": "scan_check",
+        "value": "Scan receipt"
+      },
+      {
+        "key": "sum_hint",
+        "value": "Sum"
+      },
+      {
+        "key": "p2p_payment_toolbar",
+        "value": "By card number"
+      },
+      {
+        "key": "edit1",
+        "value": "Enter recipient's card number"
+      },
+      {
+        "key": "edit_hint",
+        "value": "Commission will be calculated after entering the amount"
+      },
+      {
+        "key": "message_hint",
+        "value": "Message"
+      },
+      {
+        "key": "paynet_payment_toolbar",
+        "value": "By phone number"
+      },
+      {
+        "key": "toolbar_sheet",
+        "value": "Choose the contact"
+      },
+      {
+        "key": "edittext_hint",
+        "value": "Name or phone number"
+      },
+      {
+        "key": "tv_hint",
+        "value": "Commission will be calculated after entering the amount"
+      },
+      {
+        "key": "vklad_toolbar",
+        "value": "New deposit"
+      },
+      {
+        "key": "vklad_screen_button",
+        "value": "Open deposit"
+      },
+      {
+        "key": "vklad_summ_credit",
+        "value": "Credit amount"
+      },
+      {
+        "key": "vklad_2",
+        "value": "under contract"
+      },
+      {
+        "key": "vklad_4",
+        "value": "Benefits of a deposit"
+      },
+      {
+        "key": "vklad_5",
+        "value": "Open a deposit and get one of 55 gifts"
+      },
+      {
+        "key": "vklad_6",
+        "value": "To open a deposit, you need a plastic card of Agrobank"
+      },
+      {
+        "key": "vklad_7",
+        "value": "Issue a card"
+      },
+      {
+        "key": "deposit_condition",
+        "value": "Deposit conditions"
+      },
+      {
+        "key": "deposit_expire",
+        "value": "Срок"
+      },
+      {
+        "key": "monthly_income",
+        "value": "Ежемесячный доход"
+      },
+      {
+        "key": "all_income",
+        "value": "Общий доход"
+      },
+      {
+        "key": "expire_deposit",
+        "value": "Срок вклада"
+      },
+      {
+        "key": "rate_deposit",
+        "value": "Rate"
+      },
+      {
+        "key": "deposit_method_toolbar",
+        "value": "Способ выплат"
+      },
+      {
+        "key": "deposit_success_main_tv",
+        "value": "Вклад открыт"
+      },
+      {
+        "key": "deposit_success_main_desc",
+        "value": "Доход по вкладу вы можете получить в Региональном филиале по адресу ул. Сагбан, 1"
+      },
+      {
+        "key": "deposit_btn1",
+        "value": "Withdraw"
+      },
+      {
+        "key": "deposit_btn2",
+        "value": "Пополнить"
+      },
+      {
+        "key": "deposit_btn3",
+        "value": "Requisites"
+      },
+      {
+        "key": "credit_btn2",
+        "value": "Payment schedule"
+      },
+      {
+        "key": "credit_one_toolbar",
+        "value": "Образовательный"
+      },
+      {
+        "key": "toolbar_personal_details",
+        "value": "Личные данные"
+      },
+      {
+        "key": "firstname_personal_details",
+        "value": "Имя"
+      },
+      {
+        "key": "lastname_personal_details",
+        "value": "Фамилия"
+      },
+      {
+        "key": "middname_personal_details",
+        "value": "Отчество"
+      },
+      {
+        "key": "email_personal_details",
+        "value": "Email"
+      },
+      {
+        "key": "name_error",
+        "value": "Ошибка, введите еще раз."
+      },
+      {
+        "key": "name_error_phone",
+        "value": "Ошибка, введите правильный номер телефона."
+      },
+      {
+        "key": "toolbar_title",
+        "value": "Ежемесячный доход"
+      },
+      {
+        "key": "hint_monthly_screen",
+        "value": "Сумма в сумах"
+      },
+      {
+        "key": "hint1",
+        "value": "Стаж работы (месяцев)"
+      },
+      {
+        "key": "work_toolbar",
+        "value": "Стаж работы"
+      },
+      {
+        "key": "toolbar",
+        "value": "Условия кредита"
+      },
+      {
+        "key": "passport_toolbar",
+        "value": "Паспортные данные"
+      },
+      {
+        "key": "family_toolbar",
+        "value": "Семья"
+      },
+      {
+        "key": "delivery_toolbar",
+        "value": "Доставка"
+      },
+      {
+        "key": "uzb",
+        "value": "Uzb"
+      },
+      {
+        "key": "russian",
+        "value": "Russian"
+      },
+      {
+        "key": "english",
+        "value": "English"
+      },
+      {
+        "key": "test_text",
+        "value": "test_text"
+      },
+      {
+        "key": "add_humo_card",
+        "value": "Add Humo card to use this service"
+      },
+      {
+        "key": "agropay_tv",
+        "value": "This card is used to pay with AgroPay"
+      },
+      {
+        "key": "tizimga_kirish",
+        "value": "Вход в систему"
+      },
+      {
+        "key": "biometrik_orqali_kirish",
+        "value": "Вход в систему с помощью биометрических информации"
+      },
+      {
+        "key": "bekor_qilish",
+        "value": "Отмена"
+      },
+      {
+        "key": "toolbar_get_cash",
+        "value": "Наличные деньги"
+      },
+      {
+        "key": "summ_get_cash",
+        "value": "Сумма снятие наличные деньги"
+      },
+      {
+        "key": "otmenit",
+        "value": "Cancel"
+      },
+      {
+        "key": "readcard",
+        "value": "Bring and hold the card to the back of the device. Your card information will be read automatically"
+      },
+      {
+        "key": "unreadcard",
+        "value": "If it does not read card data:"
+      },
+      {
+        "key": "first",
+        "value": "1.Check if there is an NFC sign on the card"
+      },
+      {
+        "key": "second",
+        "value": "2.Remove the phone case"
+      },
+      {
+        "key": "loadding",
+        "value": "Connects to NFC and reads data from your card"
+      },
+      {
+        "key": "valyuta_kursi_tool_title",
+        "value": "Курсы валют"
+      },
+      {
+        "key": "setting_title",
+        "value": "Settings"
+      },
+      {
+        "key": "block",
+        "value": "Залокировать карту"
+      },
+      {
+        "key": "block_maintext",
+        "value": "Вы действительно хотите заблокировать карту? Если заблокируете карту, вы можете разблокировать карту в вашем банке."
+      },
+      {
+        "key": "button_tv",
+        "value": "Блокировать"
+      },
+      {
+        "key": "no_internet",
+        "value": "Нет интернета"
+      },
+      {
+        "key": "no_net_maintext",
+        "value": "Кажется, сеть выключена. Включите ее в настройках или попробуйте загрузить данные еще раз"
+      },
+      {
+        "key": "no_net_btntv",
+        "value": "Refresh"
+      },
+      {
+        "key": "delete_card",
+        "value": "Удалить карту"
+      },
+      {
+        "key": "delete_card_maintv",
+        "value": "Вы действительно хотите удалить карту? Если удалите карту, вы можете добавить карту в приложении повторно."
+      },
+      {
+        "key": "delete_card_buttontv",
+        "value": "Удалить"
+      },
+      {
+        "key": "card_fon_edit_text",
+        "value": "Change card view"
+      },
+      {
+        "key": "take_cvv",
+        "value": "Получить CVV код"
+      },
+      {
+        "key": "create_new_password",
+        "value": "Create a new password"
+      },
+      {
+        "key": "ustanovit",
+        "value": "Set a new password so you can log in and access Agrobank Mobile"
+      },
+      {
+        "key": "enter_parol_hint",
+        "value": "Enter password"
+      },
+      {
+        "key": "again_parol_hint5",
+        "value": "Confirm the password"
+      },
+      {
+        "key": "parol_sharti",
+        "value": "Password Requirements"
+      },
+      {
+        "key": "biometric",
+        "value": "Biometrics"
+      },
+      {
+        "key": "permission_face",
+        "value": "Do you want to allow the use of biometrics?"
+      },
+      {
+        "key": "info_biometric",
+        "value": "We will use FaceID and TouchID to sign in."
+      },
+      {
+        "key": "permission",
+        "value": "Allow"
+      },
+      {
+        "key": "unpermission",
+        "value": "Do not allow"
+      },
+      {
+        "key": "user_position",
+        "value": "All"
+      },
+      {
+        "key": "user_fizik",
+        "value": "Физическое лицо"
+      },
+      {
+        "key": "user_yurik",
+        "value": "Юридическое лицо"
+      },
+      {
+        "key": "edit_pin_tool_title",
+        "value": "Change Password"
+      },
+      {
+        "key": "parol_kiritish_tepasidagi_text",
+        "value": "Old password"
+      },
+      {
+        "key": "hint_edit_parol_text",
+        "value": "Enter the old password"
+      },
+      {
+        "key": "hint_edit_parol_text1",
+        "value": "Enter the new password"
+      },
+      {
+        "key": "add_new_password_text",
+        "value": "New password"
+      },
+      {
+        "key": "parol_talablari_text",
+        "value": "Password Requirements"
+      },
+      {
+        "key": "sample2",
+        "value": "Смс информирование для карты в национальной валюте можно подключить воспользовавшись инфокиоском. Если ранее смс информирование уже было подключено и вы хотите подключить его к другому телефонному номеру, то сначала вам следует его отключить от старого номера и заново подключить к новому."
+      },
+      {
+        "key": "search",
+        "value": "Search"
+      },
+      {
+        "key": "titleFAQ",
+        "value": "Questions and answers"
+      },
+      {
+        "key": "permission_string",
+        "value": "You must allow all requests to use this program"
+      },
+      {
+        "key": "permission_string_two",
+        "value": "Ask for permission"
+      },
+      {
+        "key": "karta_olishni_tanlash_text",
+        "value": "Выберите удобный способ получения карты."
+      },
+      {
+        "key": "filialdan_olish_text",
+        "value": "Заберу в филиале"
+      },
+      {
+        "key": "dastavka_qilish_text",
+        "value": "Доставка по адресу"
+      },
+      {
+        "key": "fialni_tanlash_button_text",
+        "value": "Выбрать филиал"
+      },
+      {
+        "key": "email_text",
+        "value": "E-mail"
+      },
+      {
+        "key": "search_text_hint",
+        "value": "Поиск"
+      },
+      {
+        "key": "save_button_text",
+        "value": "Сохранить"
+      },
+      {
+        "key": "kurs_valyuta_text",
+        "value": "CB exchange rates"
+      },
+      {
+        "key": "mne_nujno_pomosh",
+        "value": "Мне нужна помощь"
+      },
+      {
+        "key": "vvedit_parol_text",
+        "value": "Введите пароль"
+      },
+      {
+        "key": "zabil_parol_test",
+        "value": "Forgot your password?"
+      },
+      {
+        "key": "error_title",
+        "value": "Information"
+      },
+      {
+        "key": "add_card_text",
+        "value": "Add card"
+      },
+      {
+        "key": "all_my_product_text",
+        "value": "All my products"
+      },
+      {
+        "key": "main_screen_pod_text",
+        "value": "Подключить"
+      },
+      {
+        "key": "pay_or_transfer_text",
+        "value": "Make a payment"
+      },
+      {
+        "key": "agro_pay_text",
+        "value": "Agro pay"
+      },
+      {
+        "key": "qr_text",
+        "value": "QR"
+      },
+      {
+        "key": "all_curs_valyuta_text",
+        "value": "All exchange rates"
+      },
+      {
+        "key": "purchase_text",
+        "value": "Buy"
+      },
+      {
+        "key": "sale_text",
+        "value": "Sale"
+      },
+      {
+        "key": "nfc_off_and_ond_text",
+        "value": "Please activate NFC and press Back to return to the application!"
+      },
+      {
+        "key": "my_details_text",
+        "value": "My details"
+      },
+      {
+        "key": "shaxsiy_malumot_test",
+        "value": "Personal data"
+      },
+      {
+        "key": "indentification_text",
+        "value": "Identification"
+      },
+      {
+        "key": "operations_history_text",
+        "value": "Operations history"
+      },
+      {
+        "key": "all_history_text",
+        "value": "All"
+      },
+      {
+        "key": "exp_history_text",
+        "value": "Expenses"
+      },
+      {
+        "key": "inc_history_text",
+        "value": "Income"
+      },
+      {
+        "key": "card_title_add",
+        "value": "Card's name"
+      },
+      {
+        "key": "main_card",
+        "value": "Main card"
+      },
+      {
+        "key": "add_card",
+        "value": "Card's number"
+      },
+      {
+        "key": "expire_card_date",
+        "value": "MM/YY"
+      },
+      {
+        "key": "add_card_tv",
+        "value": "Previously added cards"
+      },
+      {
+        "key": "add_card_main",
+        "value": "Add card"
+      },
+      {
+        "key": "history_of_payments",
+        "value": "History of payments"
+      },
+      {
+        "key": "choose_the_card",
+        "value": "Choose the card"
+      },
+      {
+        "key": "continue_button_text",
+        "value": "Continue"
+      },
+      {
+        "key": "information",
+        "value": "Information"
+      },
+      {
+        "key": "choose_card",
+        "value": "Choose card"
+      },
+      {
+        "key": "o_zbek_tili_text",
+        "value": "O’zbek tili"
+      },
+      {
+        "key": "payment_monitoring_text",
+        "value": "Payment monitoring"
+      },
+      {
+        "key": "biometrik_auth_text",
+        "value": "Authorization using biometrics"
+      },
+      {
+        "key": "night_mode",
+        "value": "Night mode"
+      },
+      {
+        "key": "choose_the_language",
+        "value": "Choose the language"
+      },
+      {
+        "key": "sefaty_text",
+        "value": "Safety"
+      },
+      {
+        "key": "widgets_text",
+        "value": "Widgets"
+      },
+      {
+        "key": "public_offerta_text",
+        "value": "Public offer"
+      },
+      {
+        "key": "my_session_text",
+        "value": "My sessions"
+      },
+      {
+        "key": "my_data_text",
+        "value": "My data"
+      },
+      {
+        "key": "recipients_card_number",
+        "value": "Recipient's card number"
+      },
+      {
+        "key": "from_the_card",
+        "value": "From card"
+      },
+      {
+        "key": "by_phone_number",
+        "value": "By phone number"
+      },
+      {
+        "key": "monday_text",
+        "value": "Mo"
+      },
+      {
+        "key": "tue_text",
+        "value": "Tu"
+      },
+      {
+        "key": "wed_text",
+        "value": "We"
+      },
+      {
+        "key": "th_text",
+        "value": "Th"
+      },
+      {
+        "key": "fri_text",
+        "value": "Fr"
+      },
+      {
+        "key": "sat_text",
+        "value": "Sa"
+      },
+      {
+        "key": "sun_text",
+        "value": "Su"
+      },
+      {
+        "key": "phone_number_input",
+        "value": "Recipient's phone number"
+      },
+      {
+        "key": "user_all_card_hide_showe",
+        "value": "Show all my cards"
+      },
+      {
+        "key": "agrobank_title",
+        "value": "Agrobank"
+      },
+      {
+        "key": "history_empty_list_dialog_title",
+        "value": "You must add a card to view the history"
+      },
+      {
+        "key": "pay_payment_text",
+        "value": "Pay"
+      },
+      {
+        "key": "transfer_text",
+        "value": "Transfer"
+      },
+      {
+        "key": "qr_payment_sum",
+        "value": "Amount payable"
+      },
+      {
+        "key": "user_all_card_hide",
+        "value": "Hide all my cards"
+      },
+      {
+        "key": "pay_transfer_text",
+        "value": "Pay Transfer"
+      },
+      {
+        "key": "make_main_card",
+        "value": "Make a main card"
+      },
+      {
+        "key": "info_card_text",
+        "value": "Information card"
+      },
+      {
+        "key": "delete_card_info_text",
+        "value": "Are you sure to delete the card from the app?"
+      },
+      {
+        "key": "delete_card_button",
+        "value": "Delete"
+      },
+      {
+        "key": "pin_code_typing",
+        "value": "Ask for PIN-code while paying"
+      },
+      {
+        "key": "block_card_info_text",
+        "value": "Are you sure you want to block this card?"
+      },
+      {
+        "key": "block_card_text",
+        "value": "Block"
+      },
+      {
+        "key": "check_info_p2p_text",
+        "value": "Check if all data is filled in correctly"
+      },
+      {
+        "key": "rec_card_number_text",
+        "value": "Recipient's card number"
+      },
+      {
+        "key": "full_name_or_card_owner",
+        "value": "Full name of the card's owner"
+      },
+      {
+        "key": "time_text",
+        "value": "Time"
+      },
+      {
+        "key": "payment_amount",
+        "value": "Payment amount"
+      },
+      {
+        "key": "commisions_text",
+        "value": "Commission"
+      },
+      {
+        "key": "total_payment_amount",
+        "value": "Total payment amount"
+      },
+      {
+        "key": "client_text",
+        "value": "Client"
+      },
+      {
+        "key": "bank_text",
+        "value": "Bank"
+      },
+      {
+        "key": "payment_account",
+        "value": "Payment account"
+      },
+      {
+        "key": "card_number",
+        "value": "Card number"
+      },
+      {
+        "key": "card_expire_date",
+        "value": "Card expire date"
+      },
+      {
+        "key": "card_title_text",
+        "value": "Card title"
+      },
+      {
+        "key": "comission_amount",
+        "value": "Commission amount"
+      },
+      {
+        "key": "card_type",
+        "value": "Card type"
+      },
+      {
+        "key": "humo_pay_root",
+        "value": "Error, It is suspected that you have open root access, HUMO PAY will not work"
+      },
+      {
+        "key": "agro_pay_successful",
+        "value": "You have successfully paid with AgroPay"
+      },
+      {
+        "key": "card_hold",
+        "value": "Bring and hold the card closer to the device"
+      },
+      {
+        "key": "session_end_time",
+        "value": "Session end time"
+      },
+      {
+        "key": "card_blocked",
+        "value": "The card is blocked"
+      },
+      {
+        "key": "call_bank",
+        "value": "Contact your bank"
+      },
+      {
+        "key": "this_device",
+        "value": "This device"
+      },
+      {
+        "key": "end_all_other_sians",
+        "value": "End all other sessions"
+      },
+      {
+        "key": "active_sessions",
+        "value": "Active sessions"
+      },
+      {
+        "key": "add_photo",
+        "value": "Добавить фото"
+      },
+      {
+        "key": "edit_text_tv",
+        "value": "Изменить фото"
+      },
+      {
+        "key": "select_gallery",
+        "value": "Выбрать готовый снимок"
+      },
+      {
+        "key": "bankomats",
+        "value": "ATMs"
+      },
+      {
+        "key": "filials",
+        "value": "Branches"
+      },
+      {
+        "key": "hint_input_filials",
+        "value": "Address or name of branch"
+      },
+      {
+        "key": "hint_input_bankomat",
+        "value": "Address or name of ATM"
+      },
+      {
+        "key": "others",
+        "value": "Other"
+      },
+      {
+        "key": "curs_cb",
+        "value": "Exchange rate of CB"
+      },
+      {
+        "key": "curs_main",
+        "value": "Exchange rate"
+      },
+      {
+        "key": "exchange_rates",
+        "value": "Exchange rates"
+      },
+      {
+        "key": "qrcode_nomatch",
+        "value": "QR code is not correct"
+      },
+      {
+        "key": "payments",
+        "value": "Payments"
+      },
+      {
+        "key": "more_about_loan",
+        "value": "More about the loan"
+      },
+      {
+        "key": "map",
+        "value": "On the map"
+      },
+      {
+        "key": "list_map",
+        "value": "List"
+      },
+      {
+        "key": "go_map",
+        "value": "Go to cards"
+      },
+      {
+        "key": "to_the_card",
+        "value": "To the card"
+      },
+      {
+        "key": "mfo_text",
+        "value": "МФО"
+      },
+      {
+        "key": "conversion_text",
+        "value": "Amount to convert to USD"
+      },
+      {
+        "key": "currency_account",
+        "value": "Foreign currency account"
+      },
+      {
+        "key": "rate",
+        "value": "Rate:"
+      },
+      {
+        "key": "amount_withdrawal",
+        "value": "Amount withdrawal"
+      },
+      {
+        "key": "save_to_template",
+        "value": "Save to Templates"
+      },
+      {
+        "key": "error_text_conversion",
+        "value": "Error, please enter the amount again"
+      },
+      {
+        "key": "total_amount",
+        "value": "Total amount"
+      },
+      {
+        "key": "amount_to_convert",
+        "value": "Amount to convert"
+      },
+      {
+        "key": "check_if_all_information",
+        "value": "Check if all information is filled in correctly"
+      },
+      {
+        "key": "online_conversion_tool",
+        "value": "Online Conversion"
+      },
+      {
+        "key": "uzs_to_usd",
+        "value": "UZS to USD"
+      },
+      {
+        "key": "usd_to_uzs",
+        "value": "USD to UZS"
+      },
+      {
+        "key": "thi_day_text",
+        "value": "Актуально на"
+      },
+      {
+        "key": "all_payments",
+        "value": "All payments"
+      },
+      {
+        "key": "accept_p2p_and_payment_text",
+        "value": "Request sent for processing"
+      },
+      {
+        "key": "name_of_service",
+        "value": "Name of service"
+      },
+      {
+        "key": "location_of_qr_code_owner",
+        "value": "Location of the owner of the QR code"
+      },
+      {
+        "key": "owner_location_qr_code",
+        "value": "Name of the owner of the QR code"
+      },
+      {
+        "key": "name_receiver_text",
+        "value": "Receiver name"
+      },
+      {
+        "key": "dae_and_time_operation",
+        "value": "Date and time of transaction"
+      },
+      {
+        "key": "min_amount_info_text",
+        "value": "The minimum transfer amount is 5000 sum"
+      },
+      {
+        "key": "card_balance_less_text",
+        "value": "Insufficient funds"
+      },
+      {
+        "key": "pogashenie",
+        "value": "Repay"
+      },
+      {
+        "key": "kredit",
+        "value": "Loan"
+      },
+      {
+        "key": "agrobank_kredit_pog",
+        "value": "Agrobank loan repayment"
+      },
+      {
+        "key": "number_anketa",
+        "value": "Application number"
+      },
+      {
+        "key": "mfo",
+        "value": "MFO"
+      },
+      {
+        "key": "minimalniy_sum",
+        "value": "Minimum amount 500 Maximum amount 5 000 000"
+      },
+      {
+        "key": "credit_details",
+        "value": "Credit details"
+      },
+      {
+        "key": "more",
+        "value": "More"
+      },
+      {
+        "key": "choose_card_image",
+        "value": "Choose card image"
+      },
+      {
+        "key": "nothing_found",
+        "value": "Nothing has found"
+      },
+      {
+        "key": "clear_all",
+        "value": "Clean all"
+      },
+      {
+        "key": "gps",
+        "value": "In order to use this function, you must turn on the GPS navigator"
+      },
+      {
+        "key": "turn_on",
+        "value": "Turn on"
+      },
+      {
+        "key": "copy_text",
+        "value": "Copy"
+      },
+      {
+        "key": "last_payment",
+        "value": "Last payments"
+      },
+      {
+        "key": "card_exp_incorrect",
+        "value": "Card expiration date is incorrect"
+      },
+      {
+        "key": "agrobank_name",
+        "value": "Agrobank"
+      },
+      {
+        "key": "add_card_tvvv",
+        "value": "You must add a card to make payments"
+      },
+      {
+        "key": "ADD_WITH_NFC",
+        "value": "Add with NFC"
+      },
+      {
+        "key": "scan_qr_code",
+        "value": "Scan QR code of the card"
+      },
+      {
+        "key": "scan_camera",
+        "value": "Scan the card"
+      },
+      {
+        "key": "qr_code_text",
+        "value": "Point your camera at the QR code"
+      },
+      {
+        "key": "step",
+        "value": "Step 1 of 6"
+      },
+      {
+        "key": "internet_connection_error_text",
+        "value": "Internet connection error"
+      },
+      {
+        "key": "try_again_text",
+        "value": "Try again"
+      },
+      {
+        "key": "skrit",
+        "value": "Hide"
+      },
+      {
+        "key": "online_kredit",
+        "value": "Online microloan"
+      },
+      {
+        "key": "take_time_microloan",
+        "value": "Application review may take several minutes"
+      },
+      {
+        "key": "choose_policy",
+        "value": "Choose an insurance company"
+      },
+      {
+        "key": "numbercard_gurantor",
+        "value": "Enter guarantor's card number"
+      },
+      {
+        "key": "gurantor_info",
+        "value": "Your guarantor"
+      },
+      {
+        "key": "download_guarantee_agg",
+        "value": "DOWNLOAD GUARANTEE AGREEMENT"
+      },
+      {
+        "key": "download_insurance_ag",
+        "value": "DOWNLOAD INSURANCE AGREEMENT"
+      },
+      {
+        "key": "guarante",
+        "value": "Guarantee"
+      },
+      {
+        "key": "insurance_policy",
+        "value": "Insurance policy"
+      },
+      {
+        "key": "type_of_security",
+        "value": "Type of security"
+      },
+      {
+        "key": "card_text",
+        "value": "Card"
+      },
+      {
+        "key": "step_6_of_6",
+        "value": "Step 6 of 6"
+      },
+      {
+        "key": "product_text",
+        "value": "Products"
+      },
+      {
+        "key": "exclusive_offert",
+        "value": "Exclusive offers"
+      },
+      {
+        "key": "cards_text",
+        "value": "Cards"
+      },
+      {
+        "key": "safes_text",
+        "value": "Safes"
+      },
+      {
+        "key": "get_more",
+        "value": "Get more"
+      },
+      {
+        "key": "graphic",
+        "value": "Close the credit"
+      },
+      {
+        "key": "redeption_text",
+        "value": "Redemption"
+      },
+      {
+        "key": "payment_gragp_text",
+        "value": "Payment schedule"
+      },
+      {
+        "key": "summa_amount_credit",
+        "value": "Credit amount"
+      },
+      {
+        "key": "monthly_payment",
+        "value": "Monthly payment"
+      },
+      {
+        "key": "payment_period",
+        "value": "Payment period"
+      },
+      {
+        "key": "choose_card_microloan",
+        "value": "Choose the card to which you want to get a microloan"
+      },
+      {
+        "key": "to_obtain_mikroloan",
+        "value": "To obtain a microloan, you need to determine your ability to get credit"
+      },
+      {
+        "key": "find_out_scoring",
+        "value": "Find out scoring"
+      },
+      {
+        "key": "credit_amount",
+        "value": "Credit amount"
+      },
+      {
+        "key": "step26",
+        "value": "Step 2 of 6"
+      },
+      {
+        "key": "step36",
+        "value": "Step 3 of 6"
+      },
+      {
+        "key": "step46",
+        "value": "Step 4 of 6"
+      },
+      {
+        "key": "step56",
+        "value": "Step 5 of 6"
+      },
+      {
+        "key": "insurancedownload",
+        "value": "Insurance agreement is downloading…"
+      },
+      {
+        "key": "kafillik_download",
+        "value": "Guarantee agreement is downloading…"
+      },
+      {
+        "key": "application_accepted",
+        "value": "Application accepted"
+      },
+      {
+        "key": "success_text11",
+        "value": "Funds will be credited to your account within a few minutes"
+      },
+      {
+        "key": "close_the_loan",
+        "value": "Close the loan"
+      },
+      {
+        "key": "do_you_really_closed_microloan",
+        "value": "Do you really want to close the loan?"
+      },
+      {
+        "key": "close_microloan_text",
+        "value": "Close"
+      },
+      {
+        "key": "main_debt_text",
+        "value": "Main debt"
+      },
+      {
+        "key": "percent_text",
+        "value": "Percent"
+      },
+      {
+        "key": "remainder_text",
+        "value": "Remainder"
+      },
+      {
+        "key": "date",
+        "value": "Date"
+      },
+      {
+        "key": "payment",
+        "value": "Payment"
+      },
+      {
+        "key": "text_of_calculator",
+        "value": "Attention, the calculator does not guarantee the absolute accuracy of calculations."
+      },
+      {
+        "key": "type_of_security_text",
+        "value": "Type of security"
+      },
+      {
+        "key": "credit_term_text",
+        "value": "Credit term"
+      },
+      {
+        "key": "month_text_calc",
+        "value": "month"
+      },
+      {
+        "key": "interest_rate_text",
+        "value": "Interest rate"
+      },
+      {
+        "key": "credit_calculator",
+        "value": "Credit calculator"
+      },
+      {
+        "key": "waiting_scoring",
+        "value": "Waiting for scoring"
+      },
+      {
+        "key": "pnfl_number",
+        "value": "PINFL's number"
+      },
+      {
+        "key": "identification",
+        "value": "Identification"
+      },
+      {
+        "key": "pnfl",
+        "value": "PINFL"
+      },
+      {
+        "key": "info_my_id_tv",
+        "value": "For identification, enter your passport details and upload a photo"
+      },
+      {
+        "key": "photo_user_tv",
+        "value": "User photo"
+      },
+      {
+        "key": "consent_personal_data",
+        "value": "Consent to the processing of personal data"
+      },
+      {
+        "key": "hint_passport_number",
+        "value": "Passport ID"
+      },
+      {
+        "key": "seriya_passport",
+        "value": "Passport Series"
+      },
+      {
+        "key": "birthday_hint",
+        "value": "Date of Birth"
+      },
+      {
+        "key": "type_identification",
+        "value": "Identification type"
+      },
+      {
+        "key": "den",
+        "value": "Choose your birthday"
+      },
+      {
+        "key": "den_1",
+        "value": "Please choose your birthday correctly"
+      },
+      {
+        "key": "withdrawal_account",
+        "value": "Withdrawal from the account"
+      },
+      {
+        "key": "curenncy_text",
+        "value": "Currency"
+      },
+      {
+        "key": "recommendet_amount_text",
+        "value": "Recommended amount:"
+      },
+      {
+        "key": "authorization_message",
+        "value": "This number has been registered, please enter your password to login"
+      },
+      {
+        "key": "alert_title",
+        "value": "Accept for processing"
+      },
+      {
+        "key": "sum",
+        "value": "sum"
+      },
+      {
+        "key": "conversion_succes",
+        "value": "You have successfully converted"
+      },
+      {
+        "key": "confirm",
+        "value": "Confirm"
+      },
+      {
+        "key": "tranfer_succes",
+        "value": "You have successfully transferred"
+      },
+      {
+        "key": "p2pCheck_info",
+        "value": "Check if all the data is filled in correctly"
+      },
+      {
+        "key": "added_card",
+        "value": "Card is added"
+      },
+      {
+        "key": "add_card_succes",
+        "value": "You have successfully added a card"
+      },
+      {
+        "key": "approved_title",
+        "value": "Confirm"
+      },
+      {
+        "key": "photo_cards",
+        "value": "Photo card"
+      },
+      {
+        "key": "skip_text",
+        "value": "Skip"
+      },
+      {
+        "key": "opt_card_design",
+        "value": "Choose a card design"
+      },
+      {
+        "key": "clear",
+        "value": "Clear"
+      },
+      {
+        "key": "another",
+        "value": "Other"
+      },
+      {
+        "key": "create_group",
+        "value": "Create a group"
+      },
+      {
+        "key": "sum_money",
+        "value": "The amount of money is not enough"
+      },
+      {
+        "key": "opt_payment",
+        "value": "Select payments"
+      },
+      {
+        "key": "for_instance",
+        "value": "For example, Son's apartment"
+      },
+      {
+        "key": "name_text",
+        "value": "Name"
+      },
+      {
+        "key": "warning_text",
+        "value": "Come up with a name for the new payment group"
+      },
+      {
+        "key": "card_block_instruct",
+        "value": "To unblock the card, contact your bank"
+      },
+      {
+        "key": "card_number_message",
+        "value": "The card number has been successfully copied to your device's clipboard!"
+      },
+      {
+        "key": "ok",
+        "value": "ok"
+      },
+      {
+        "key": "hide_my_cards",
+        "value": "Hide my cards"
+      },
+      {
+        "key": "online_comfort",
+        "value": "Online Comfort"
+      },
+      {
+        "key": "last_days",
+        "value": "Last 7 days"
+      },
+      {
+        "key": "policy_text",
+        "value": "Privacy Policy"
+      },
+      {
+        "key": "licence_text",
+        "value": "License agreement"
+      },
+      {
+        "key": "about_bank",
+        "value": "About bank"
+      },
+      {
+        "key": "warn_text",
+        "value": "Attention"
+      },
+      {
+        "key": "error_message",
+        "value": "Error with your email adress! Please check your email address."
+      },
+      {
+        "key": "refresh_text",
+        "value": "Refresh"
+      },
+      {
+        "key": "take_photo",
+        "value": "Take a photo"
+      },
+      {
+        "key": "close_seans",
+        "value": "End session"
+      },
+      {
+        "key": "add_pin_code",
+        "value": "Add PIN"
+      },
+      {
+        "key": "remove_pin",
+        "value": "Remove PIN"
+      },
+      {
+        "key": "located_city",
+        "value": "Tashkent, Uzbekistan"
+      },
+      {
+        "key": "your_pin_succeded",
+        "value": "Your password has been successfully changed"
+      },
+      {
+        "key": "mobile_payment",
+        "value": "Payment for mobile operators"
+      },
+      {
+        "key": "services",
+        "value": "Services"
+      },
+      {
+        "key": "saved_payments",
+        "value": "Saved payments"
+      },
+      {
+        "key": "payment_by",
+        "value": "Payment on the spot"
+      },
+      {
+        "key": "life_hack",
+        "value": "life hack"
+      },
+      {
+        "key": "my_operations",
+        "value": "My transactions"
+      },
+      {
+        "key": "support_biometrics",
+        "value": "Confirm payment with biometrics"
+      },
+      {
+        "key": "reset_presets",
+        "value": "Reset all presets"
+      },
+      {
+        "key": "error_security_text",
+        "value": "Cancel all user settings and return them to default"
+      },
+      {
+        "key": "remember_login",
+        "value": "Remember login"
+      },
+      {
+        "key": "wanna_qiut_app",
+        "value": "Are you sure you to exit the app?"
+      },
+      {
+        "key": "convinience_payment",
+        "value": "Convenient one-click payment"
+      },
+      {
+        "key": "error_text",
+        "value": "Error"
+      },
+      {
+        "key": "camera_availability",
+        "value": "Camera is required to use in this application"
+      }
+    ]
+  }

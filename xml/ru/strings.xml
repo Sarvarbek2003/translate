@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">AgroMobileRebrand</string>
+  <string name="bank_name">Агробанк</string>
+  <string name="registration_text">Регистрация</string>
+  <string name="regphonenumber_desc">Чтобы начать введите номер телефона</string>
+  <string name="number_telephone">Номер телефона</string>
+  <string name="code_from_sms">Код из смс</string>
+  <string name="resend_code">Выслать код повторно</string>
+  <string name="enter_pincode">Создайте пин-код</string>
+  <string name="next_button">Далее</string>
+  <string name="sms_code_phone_number">Код активации был отправлен на номер</string>
+  <string name="pin_kodni_tasdiqlash">Подтвердите ПИН-код</string>
+  <string name="zabil_pin_text">Забыли код?</string>
+  <string name="enter_your_pin">Введите ПИН-код</string>
+  <string name="password_max_min_char">от 8 и не более 20 символов;</string>
+  <string name="uppercase_and_lovercase_letters">как минимум одна заглавная и одна строчная буква;</string>
+  <string name="latin_and_cril_letters">только латинские или кириллические буквы;</string>
+  <string name="add_single_character">как минимум одна цифра;</string>
+  <string name="arabiski_sifra">только арабские цифры (0–9);</string>
+  <string name="special_character">как минимум один спец символ;</string>
+  <string name="pasword_unmatch">Код-пароли не совпадают</string>
+  <string name="wrong_password">Неправильный пароль</string>
+  <string name="main_menu">Главная</string>
+  <string name="payment_menu">Оплата</string>
+  <string name="hisotory_menu">История</string>
+  <string name="showcase_menu">Витрина</string>
+  <string name="chat_menu">Чат</string>
+  <string name="konstantin">Пользователь</string>
+  <string name="last_operations">Последние операции</string>
+  <string name="branches">Банкоматы и отделения</string>
+  <string name="all_my_products">Мои продукты</string>
+  <string name="create_card_button">Новая карта, вклад, кредит</string>
+  <string name="deposit">Вклады</string>
+  <string name="credits">Кредиты</string>
+  <string name="my_card_toolbar_title">Моя карта</string>
+  <string name="replenish">Пополнить</string>
+  <string name="bank_details">Реквизиты и выписки</string>
+  <string name="cash_withdrawal">Снятие наличных</string>
+  <string name="request_pincode">Запрашивать пин-код при оплате</string>
+  <string name="notification">Оповещения об операциях</string>
+  <string name="settings_bottomsheet">Настройки</string>
+  <string name="save_bottomsheet">Сохранить</string>
+  <string name="detail_settings">Показать реквизиты</string>
+  <string name="agropay_add">Добавить в AgroPay</string>
+  <string name="cvv">Получить CVV код</string>
+  <string name="edit_pincode">Изменить ПИН-код</string>
+  <string name="block_card">Заблокировать карту</string>
+  <string name="exit_card">Удалить карту</string>
+  <string name="all_card_screen_title">Новая карта</string>
+  <string name="all_card_screen_desc_card">Оплата покупок, коммунальных платежей, перевода&#xD;
+        денег на карты любых банков </string>
+  <string name="card_design">Оформление карты</string>
+  <string name="expire_date">Срок действия </string>
+  <string name="transfer_agrobank_card">Переводы между картами Агробанка    </string>
+  <string name="adventages_card">Преимущества карты    </string>
+  <string name="all_card_screen_block_card">При утрате карта блокируется через мобильное&#xD;
+        приложение и деньги остаются на счету</string>
+  <string name="contactless_payment">Бесконтактная оплата с помощью Pay Pass</string>
+  <string name="every_accept">Принимается везде: в магазинах, гостиницах, на заправках</string>
+  <string name="atm">Четыре тысячи банкоматов под рукой</string>
+  <string name="feature_card">О возможностях карты </string>
+  <string name="service_rates">Тарифы обслуживания  </string>
+  <string name="all_card_screen_button">Оформить карту</string>
+  <string name="all_credit_screen_toolbar">Новый кредит</string>
+  <string name="all_credit_calculate">Рассчитать условия</string>
+  <string name="all_credit_personal_apps">Персольнальное предложение</string>
+  <string name="all_credit_education_loan">Кредит на образование</string>
+  <string name="all_credit_screen_sum_credit">Сумма кредита</string>
+  <string name="all_credit_screen_expire_credit">Срок выплаты</string>
+  <string name="all_credit_screen_disabled_person_credit">Ставка для инвалидов и&#xD;
+        детей-сирот</string>
+  <string name="percent_rate">Процентная ставка</string>
+  <string name="adventage_credit">Преимущества кредита</string>
+  <string name="first_adv_credit">0% ставка для круглых сирот, детей из детских домов,&#xD;
+        инвалидов I и II групп с детства  </string>
+  <string name="second_adv_credit">Любой вуз Узбекистана</string>
+  <string name="third_adv_credit">Быстрая оплата в банкоматах без комисии</string>
+  <string name="fourth_adv_credit">Одобрение онлайн в течении нескольких минут</string>
+  <string name="hint_enter_summ">Сумма до 20 000 000 сум</string>
+  <string name="hint_enter_date">Срок до 3 лет  </string>
+  <string name="rate_info">Ставка</string>
+  <string name="payment_mothly">Ежемесячный платеж</string>
+  <string name="rules_credit">Требования к заемщикам </string>
+  <string name="more_information">Открыть подробный расчет </string>
+  <string name="next_button_all_credit">Оставить заявку </string>
+  <string name="profil_toolbar_title">Профиль</string>
+  <string name="security_toolbar_title">Безопасность</string>
+  <string name="passport">Паспорт</string>
+  <string name="tin">ИНН</string>
+  <string name="my_address">Мои адреса</string>
+  <string name="profil_settings">Настройки</string>
+  <string name="answer">Вопросы и ответы</string>
+  <string name="about_apps">О приложении</string>
+  <string name="exit_profil">Выйти</string>
+  <string name="On_success">Оплачено</string>
+  <string name="on_succcessful">Вы успешно оплатили</string>
+  <string name="To_main">На главную</string>
+  <string name="show_chek">Показать чек и детали</string>
+  <string name="On_error">Платеж не прошел</string>
+  <string name="On_error_message">Мы не получили вашу оплату, попробуйте еще раз</string>
+  <string name="on_error_button">Попробовать еще раз</string>
+  <string name="write_help">Написать в поддержку</string>
+  <string name="succes_text">Сумовая карта будет доставлена20 декабря по адресу ул. Сагбан, 1.Когда будет готово, курьер свяжетсяс вами.</string>
+  <string name="card_number_payment">По номеру карты</string>
+  <string name="phone_payment">По номеру телефона</string>
+  <string name="account_number">По номеру счета</string>
+  <string name="abroad">За рубеж</string>
+  <string name="between_account_number">Между своими счетами</string>
+  <string name="qr_toolbar_title">Оплата по QR</string>
+  <string name="qr_screen_hint">Наведите камеру на QR-код</string>
+  <string name="qr_card_toolbar">QR для пополнения</string>
+  <string name="qr_code_send">Покажите или отправьте QR-код, тому, кто хочет перевести вам&#xD;
+        деньги</string>
+  <string name="share_btn">Поделиться</string>
+  <string name="payScreen_toolbar">Оплатить</string>
+  <string name="organization">Организация</string>
+  <string name="select_org">Выберите</string>
+  <string name="check_info">Проверьте, правильно ли заполнены все данные</string>
+  <string name="from_card">C карты</string>
+  <string name="personal_number">Лицевой счет</string>
+  <string name="scan_check">Cканировать квитанцию</string>
+  <string name="sum_hint">Сумма</string>
+  <string name="p2p_payment_toolbar">По номеру карты</string>
+  <string name="edit1">Введите номер карты получателя</string>
+  <string name="edit_hint">Комиссия будет рассчитана после ввода суммы</string>
+  <string name="message_hint">Сообщение</string>
+  <string name="paynet_payment_toolbar">По номеру телефона</string>
+  <string name="toolbar_sheet">Выберите контакт</string>
+  <string name="edittext_hint">Имя или номер телефона</string>
+  <string name="tv_hint">Комиссия будет рассчитана после ввода суммы</string>
+  <string name="vklad_toolbar">Новый вклад</string>
+  <string name="vklad_screen_button">Открыть вклад</string>
+  <string name="vklad_summ_credit">Сумма кредита</string>
+  <string name="vklad_2">по договору</string>
+  <string name="vklad_4">Преимущества вклада </string>
+  <string name="vklad_5">Откройте вклад и получите один из 55 подарков </string>
+  <string name="vklad_6">Для открытия вклада нужна пластиковая карта «Агробанка» </string>
+  <string name="vklad_7">Оформить карту</string>
+  <string name="deposit_condition">Условия вклада</string>
+  <string name="deposit_expire">Срок</string>
+  <string name="monthly_income">Ежемесячный доход</string>
+  <string name="all_income">Общий доход</string>
+  <string name="expire_deposit">Срок вклада</string>
+  <string name="rate_deposit">Ставка</string>
+  <string name="deposit_method_toolbar">Способ выплат</string>
+  <string name="deposit_success_main_tv">Вклад открыт</string>
+  <string name="deposit_success_main_desc">Доход по вкладу вы можете получить в Региональном&#xD;
+        филиале по адресу ул. Сагбан, 1</string>
+  <string name="deposit_btn1">Снять</string>
+  <string name="deposit_btn2">Пополнить</string>
+  <string name="deposit_btn3">Реквизиты</string>
+  <string name="credit_btn2">График платежей</string>
+  <string name="credit_one_toolbar">Образовательный</string>
+  <string name="toolbar_personal_details">Личные данные</string>
+  <string name="firstname_personal_details">Имя</string>
+  <string name="lastname_personal_details">Фамилия</string>
+  <string name="middname_personal_details">Отчество</string>
+  <string name="email_personal_details">Email</string>
+  <string name="name_error">Ошибка, введите еще раз.</string>
+  <string name="name_error_phone">Ошибка, введите правильный номер телефона.</string>
+  <string name="toolbar_title">Ежемесячный доход</string>
+  <string name="hint_monthly_screen">Сумма в сумах</string>
+  <string name="hint1">Стаж работы (месяцев)</string>
+  <string name="work_toolbar">Стаж работы</string>
+  <string name="toolbar">Условия кредита</string>
+  <string name="passport_toolbar">Паспортные данные</string>
+  <string name="family_toolbar">Семья</string>
+  <string name="delivery_toolbar">Доставка</string>
+  <string name="uzb">Uzb</string>
+  <string name="russian">Russian</string>
+  <string name="english">English</string>
+  <string name="test_text">Salom</string>
+  <string name="add_humo_card">Добавтье карту Humo, чтобы воспользоваться этой услугой</string>
+  <string name="agropay_tv">Эта карта используется для оплаты через AgroPay</string>
+  <string name="spec_prop_id" translatable="false">Application</string>
+  <string name="spec_prop_serial" translatable="false">Serial:\u0020</string>
+  <string name="spec_prop_param" translatable="false">Parameter:\u0020</string>
+  <string name="spec_prop_version" translatable="false">Version:\u0020</string>
+  <string name="spec_prop_date" translatable="false">Validity:\u0020</string>
+  <string name="spec_prop_currency" translatable="false">Currency:\u0020</string>
+  <string name="spec_prop_count" translatable="false">Transactions:\u0020</string>
+  <string name="spec_prop_ecash" translatable="false">E-Cash:\u0020</string>
+  <string name="spec_prop_balance" translatable="false">Balance:\u0020</string>
+  <string name="spec_prop_tlimit" translatable="false">EC Single Transaction Limit:\u0020</string>
+  <string name="spec_prop_dlimit" translatable="false">EC Balance Limit:\u0020</string>
+  <string name="spec_prop_olimit" translatable="false">Overdraft limit:\u0020</string>
+  <string name="spec_prop_translog" translatable="false">Transaction Logs:</string>
+  <string name="spec_prop_access" translatable="false">Access denied</string>
+  <string name="spec_prop_exception" translatable="false">Error:</string>
+  <string name="spec_cur_unknown" translatable="false">""</string>
+  <string name="spec_cur_usd" translatable="false">USD</string>
+  <string name="spec_cur_cny" translatable="false">CNY</string>
+  <string name="spec_cur_hkd" translatable="false">HKD</string>
+  <string name="spec_app_unknown" translatable="false">Unknown Application</string>
+  <string name="spec_app_shenzhentong" translatable="false">Shenzhen Tong</string>
+  <string name="spec_app_quickpass" translatable="false">QuickPass (China UnionPay)</string>
+  <string name="spec_app_octopus_hk" translatable="false">Octopus Card (Hong Kong)</string>
+  <string name="spec_app_changantong" translatable="false">Changan Tong</string>
+  <string name="spec_app_wuhantong" translatable="false">Wuhan City Smart Card</string>
+  <string name="spec_app_beijing" translatable="false">Beijing Municipal Card</string>
+  <string name="spec_app_shanghai" translatable="false">Shanghai Card</string>
+  <string name="spec_app_debit" translatable="false">Debit Card (QuickPass)</string>
+  <string name="spec_app_credit" translatable="false">Credit Card (QuickPass)</string>
+  <string name="spec_app_qcredit" translatable="false">Quasi-credit cards (QuickPass)</string>
+  <string name="spec_app_tunion_ep" translatable="false">T-Union (Base)</string>
+  <string name="spec_app_tunion_ec" translatable="false">T-Union (Expanded)</string>
+  <string name="spec_app_cityunion" translatable="false">City Union ( %1$s )</string>
+  <string name="spec_zip_unknown" translatable="false">Unknown city</string>
+  <string name="info_nfc_not_support" translatable="false"/>
+  <string name="open_nfc" translatable="false">City Union ( %1$s )&gt;Humo NFC</string>
+  <string name="info_main_copied" translatable="false">nfc</string>
+  <string name="block_card_info_dialog" translatable="false">City Union ( %1$s )&gt;Do you really want to block the card?</string>
+  <string name="passport_serial_number" translatable="false">City Union ( %1$s )&gt;Passport serial number</string>
+  <string name="passport_given_date" translatable="false">City Union ( %1$s )&gt;Passport given date</string>
+  <string name="what_is_pinfl" translatable="false">City Union ( %1$s )&gt;What is PINFL?</string>
+  <string name="name_unired_application" translatable="false">Name</string>
+  <string name="surname_unired_application" translatable="false">Surname</string>
+  <string name="patronymic_unired_application" translatable="false">Patronymic</string>
+  <string name="birth_date_unired_application" translatable="false">Birth date</string>
+  <string name="gender" translatable="false">Gender</string>
+  <string name="male" translatable="false">Male</string>
+  <string name="female" translatable="false">Female</string>
+  <string name="stir" translatable="false">Stir</string>
+  <string name="registered_address" translatable="false">Registered address</string>
+  <string name="lived_address" translatable="false">Lived address</string>
+  <string name="upload_passport_images" translatable="false">Upload passport images</string>
+  <string name="upload_image" translatable="false">Upload image</string>
+  <string name="payment_card_number" translatable="false">Payment card number</string>
+  <string name="terminate_or_block_this_session" translatable="false">Are you want to terminate or block this session?</string>
+  <string name="blocking_session" translatable="false">Blocking</string>
+  <string name="terminate" translatable="false">Terminate</string>
+  <string name="session_title" translatable="false">Devices</string>
+  <string name="this_devices" translatable="false">This device</string>
+  <string name="all_other_sessions" translatable="false">All other devices</string>
+  <string name="reliable_devices" translatable="false">Reliable devices</string>
+  <string name="unired_category" translatable="false">Categories</string>
+  <string name="tizimga_kirish">Вход в систему</string>
+  <string name="biometrik_orqali_kirish"> Вход в систему с помощью биометрических информации</string>
+  <string name="bekor_qilish">Отмена</string>
+  <string name="toolbar_get_cash">Наличные деньги</string>
+  <string name="summ_get_cash">Сумма снятие наличные деньги</string>
+  <string name="otmenit">Отменить</string>
+  <string name="readcard">Поднесите и держите карту к задней части устройства. Информация вашей карты будет прочитана автоматически</string>
+  <string name="unreadcard">Если не читает данные карты:</string>
+  <string name="first">1.Проверьте есть ли знак NFC на карте</string>
+  <string name="second">2.Снимите чехол телефона</string>
+  <string name="loadding">Соединяется к NFC и считывает данные с вашей карты</string>
+  <string name="valyuta_kursi_tool_title">Курсы валют</string>
+  <string name="setting_title">Настройки</string>
+  <string name="block">Залокировать карту</string>
+  <string name="block_maintext">Вы действительно хотите заблокировать карту? Если заблокируете карту, вы можете разблокировать карту в вашем банке.</string>
+  <string name="button_tv">Блокировать</string>
+  <string name="no_internet">Нет интернета</string>
+  <string name="no_net_maintext">Кажется, сеть выключена. Включите ее в настройках или попробуйте загрузить данные еще раз</string>
+  <string name="no_net_btntv">Обновить</string>
+  <string name="delete_card">Удалить карту</string>
+  <string name="delete_card_maintv">Вы действительно хотите удалить карту? Если удалите карту, вы можете добавить карту в приложении повторно.</string>
+  <string name="delete_card_buttontv">Удалить</string>
+  <string name="card_fon_edit_text">Изменить фон карты</string>
+  <string name="take_cvv">Получить CVV код</string>
+  <string name="create_new_password">Создайте новый пароль</string>
+  <string name="ustanovit">Установите новый пароль, чтобы вы могли войти и получить доступ в Агробанк Мобайл</string>
+  <string name="enter_parol_hint">Введите пароль</string>
+  <string name="again_parol_hint5">Подтвердите пароль</string>
+  <string name="parol_sharti">Требования к паролю</string>
+  <string name="biometric">Биометрия</string>
+  <string name="permission_face">Вы хотите разрешить использовать биометрию?</string>
+  <string name="info_biometric">Мы будем использовать FaceID и TouchID для входа</string>
+  <string name="permission">Разрешить</string>
+  <string name="unpermission">Не разрешать</string>
+  <string name="user_position">Все</string>
+  <string name="user_fizik">Физическое лицо</string>
+  <string name="user_yurik">Юридическое лицо</string>
+  <string name="edit_pin_tool_title">Изменить пароль</string>
+  <string name="parol_kiritish_tepasidagi_text">Старый пароль</string>
+  <string name="hint_edit_parol_text">Введите старый пароль</string>
+  <string name="hint_edit_parol_text1">Введите новый пароль</string>
+  <string name="add_new_password_text">Новый пароль</string>
+  <string name="parol_talablari_text">Требования к паролю</string>
+  <string name="sample2">Смс информирование для карты в национальной валюте можно подключить воспользовавшись инфокиоском. Если ранее смс информирование уже было подключено и вы хотите подключить его к другому телефонному номеру, то сначала вам следует его отключить от старого номера и заново подключить к новому.</string>
+  <string name="search">Поиск</string>
+  <string name="titleFAQ">Вопросы и ответы</string>
+  <string name="permission_string">Вы должны разрешить все запросы на использование этой программы</string>
+  <string name="permission_string_two">Просить разрешения</string>
+  <string name="karta_olishni_tanlash_text">Выберите удобный способ получения карты.</string>
+  <string name="filialdan_olish_text">Заберу в филиале</string>
+  <string name="dastavka_qilish_text">Доставка по адресу</string>
+  <string name="fialni_tanlash_button_text">Выбрать филиал</string>
+  <string name="email_text">E-mail</string>
+  <string name="search_text_hint">Поиск</string>
+  <string name="save_button_text">Сохранить</string>
+  <string name="kurs_valyuta_text">Курсы валют ЦБ</string>
+  <string name="mne_nujno_pomosh">Мне нужна помощь</string>
+  <string name="vvedit_parol_text">Введите пароль</string>
+  <string name="zabil_parol_test">Забыли пароль?</string>
+  <string name="error_title">Информация</string>
+  <string name="add_card_text">Добавить карту</string>
+  <string name="all_my_product_text">Все мои продукты</string>
+  <string name="main_screen_pod_text">Подключить</string>
+  <string name="pay_or_transfer_text">Оплатить или перевести</string>
+  <string name="agro_pay_text">Agro pay</string>
+  <string name="qr_text">QR</string>
+  <string name="all_curs_valyuta_text">Все курсы валют</string>
+  <string name="purchase_text">Покупка</string>
+  <string name="sale_text">Продажа</string>
+  <string name="nfc_off_and_ond_text">Активируйте NFC и нажмите «Назад», чтобы вернуться в приложение!</string>
+  <string name="my_details_text">Мои данные</string>
+  <string name="shaxsiy_malumot_test">Личные данные</string>
+  <string name="indentification_text">Идентификация</string>
+  <string name="operations_history_text">История операций</string>
+  <string name="all_history_text">Все</string>
+  <string name="exp_history_text">Расходы</string>
+  <string name="inc_history_text">Доходы</string>
+  <string name="card_title_add">Название карты</string>
+  <string name="main_card">Оснавная карта</string>
+  <string name="add_card">Номер карты</string>
+  <string name="expire_card_date">ММ/ГГ</string>
+  <string name="add_card_tv">Ранее добавленные карты</string>
+  <string name="add_card_main">Добавить карту</string>
+  <string name="history_of_payments">История операций</string>
+  <string name="choose_the_card">Выберите карту</string>
+  <string name="continue_button_text">Продолжить</string>
+  <string name="information">Информация</string>
+  <string name="choose_card">Выберите карту</string>
+  <string name="o_zbek_tili_text">O\’zbek tili</string>
+  <string name="payment_monitoring_text">Мониторинг платежей</string>
+  <string name="biometrik_auth_text">Авторизация с помощью биометрии</string>
+  <string name="night_mode">Ночной режим</string>
+  <string name="choose_the_language">Выберите язык</string>
+  <string name="sefaty_text">Безопасность</string>
+  <string name="widgets_text">Виджеты</string>
+  <string name="public_offerta_text">Публичная оферта</string>
+  <string name="my_session_text">Мои сессии</string>
+  <string name="my_data_text">Мои данные</string>
+  <string name="recipients_card_number">Номер карты получателя</string>
+  <string name="from_the_card">C карты</string>
+  <string name="by_phone_number">По номеру телефона</string>
+  <string name="monday_text">ПН</string>
+  <string name="tue_text">ВТ</string>
+  <string name="wed_text">СР</string>
+  <string name="th_text">ЧТ</string>
+  <string name="fri_text">ПТ</string>
+  <string name="sat_text">СБ</string>
+  <string name="sun_text">ВС</string>
+  <string name="phone_number_input">Телефон номер получателя</string>
+  <string name="user_all_card_hide_showe">Показать все мои карты</string>
+  <string name="agrobank_title">Агробанк</string>
+  <string name="history_empty_list_dialog_title">Для просмотра истории карт необходимо сначала добавить карту</string>
+  <string name="pay_payment_text">Оплатить</string>
+  <string name="transfer_text">Перевести</string>
+  <string name="qr_payment_sum">Сумма к оплате</string>
+  <string name="user_all_card_hide">Скрыть мои карты</string>
+  <string name="pay_transfer_text">Оплатить или перевести</string>
+  <string name="make_main_card">Сделать основной картой</string>
+  <string name="info_card_text">Информации о карте</string>
+  <string name="delete_card_info_text">Вы действительно хотите удалить карту из приложения?</string>
+  <string name="delete_card_button">Удалить</string>
+  <string name="pin_code_typing">Запрашивать ПИН-код при оплате</string>
+  <string name="block_card_info_text">Вы действительно хотите заблокировать эту карту?</string>
+  <string name="block_card_text">Блокировать</string>
+  <string name="check_info_p2p_text">Проверьте, правильно ли заполнены все данные</string>
+  <string name="rec_card_number_text">Номер карты получателя</string>
+  <string name="full_name_or_card_owner">Ф.И.О. владелца карты</string>
+  <string name="time_text">Время</string>
+  <string name="payment_amount">Сумма оплаты</string>
+  <string name="commisions_text">Комиссия</string>
+  <string name="total_payment_amount">Общая сумма платежа</string>
+  <string name="client_text">Клиент</string>
+  <string name="bank_text">Банк</string>
+  <string name="payment_account">Расчетный счет</string>
+  <string name="card_number">Номер карты</string>
+  <string name="card_expire_date">Срок карты</string>
+  <string name="card_title_text">Название карты</string>
+  <string name="comission_amount">Сумма комиссии</string>
+  <string name="card_type">Тип карты</string>
+  <string name="humo_pay_root">Ошибка, Подозревается что У вас открыто root доступ, HUMO PAY не будет работать</string>
+  <string name="agro_pay_successful">Вы успешно оплатили через Agro Pay</string>
+  <string name="card_hold">Поднесите и держите карту ближе к устройству</string>
+  <string name="session_end_time">Время окончания сеанса</string>
+  <string name="card_blocked">Карта заблокирована</string>
+  <string name="call_bank">Обратитесь в ваш банк</string>
+  <string name="this_device">Это устройство</string>
+  <string name="end_all_other_sians">Завершить все другие сеансы</string>
+  <string name="active_sessions">Активные сеансы</string>
+  <string name="add_photo">Добавить фото</string>
+  <string name="edit_text_tv">Изменить фото</string>
+  <string name="select_gallery">Выбрать готовый снимок</string>
+  <string name="bankomats">Банкоматы</string>
+  <string name="filials">Филиалы</string>
+  <string name="hint_input_filials">Адрес или название филиала</string>
+  <string name="hint_input_bankomat">Адрес или название банкомата</string>
+  <string name="others">Другое</string>
+  <string name="curs_cb">Курс ЦБ</string>
+  <string name="curs_main">Обменный курс</string>
+  <string name="exchange_rates">Курсы валют</string>
+  <string name="qrcode_nomatch">QR код не правилно</string>
+  <string name="payments">Платежи</string>
+  <string name="more_about_loan">Подробнее о кредите</string>
+  <string name="map">На карте</string>
+  <string name="list_map">Списком</string>
+  <string name="go_map">Перейти в карты</string>
+  <string name="to_the_card">В карту</string>
+  <string name="mfo_text">МФО</string>
+  <string name="conversion_text">Сумма для конверсии в USD</string>
+  <string name="currency_account">Валютный счет</string>
+  <string name="rate">Курс валюты:</string>
+  <string name="amount_withdrawal">Сумма снятие</string>
+  <string name="save_to_template">Сохранить в шаблоны</string>
+  <string name="error_text_conversion">Ошибка, введите сумму еще раз</string>
+  <string name="total_amount">Общая сумма</string>
+  <string name="amount_to_convert">Сумма для конверсии</string>
+  <string name="check_if_all_information">Проверьте, правильно ли заполнены все данные</string>
+  <string name="online_conversion_tool">Онлайн конверсия</string>
+  <string name="uzs_to_usd">UZS в USD</string>
+  <string name="usd_to_uzs">USD в UZS</string>
+  <string name="thi_day_text">Актуально на</string>
+  <string name="all_payments">Все платежи</string>
+  <string name="accept_p2p_and_payment_text">Запрос отправлен на обработку</string>
+  <string name="name_of_service">Наименование услуги</string>
+  <string name="location_of_qr_code_owner">Местонахождение владелца QR-кода</string>
+  <string name="owner_location_qr_code">Наименование владелца QR-кода</string>
+  <string name="name_receiver_text">Имя получателя</string>
+  <string name="dae_and_time_operation">Дата и время операции</string>
+  <string name="min_amount_info_text">Минимальная сумма перевода 5000 сум</string>
+  <string name="card_balance_less_text">Недостаточно средств</string>
+  <string name="pogashenie">Погасить</string>
+  <string name="kredit">Кредит</string>
+  <string name="agrobank_kredit_pog">Погашение кредита Agrobank</string>
+  <string name="number_anketa">Номер анкеты</string>
+  <string name="mfo">МФО</string>
+  <string name="minimalniy_sum">Минимальная сумма 500\nMаксимальная сумма 5 000 000</string>
+  <string name="credit_details">Кредитные данные</string>
+  <string name="more">Подробнее</string>
+  <string name="choose_card_image">Выберите фон карты</string>
+  <string name="nothing_found">Ничего не найдено</string>
+  <string name="clear_all">Очистить все</string>
+  <string name="gps">Для того что бы использовать эту функцию необходимо включить GPS навитагатор</string>
+  <string name="turn_on">Включить</string>
+  <string name="copy_text">Копировать</string>
+  <string name="last_payment">Последние переводы</string>
+  <string name="card_exp_incorrect">Срок действия карты указан неверно</string>
+  <string name="agrobank_name">Агробанк</string>
+  <string name="add_card_tvvv">Вы должны добавить карту для осуществления платежей</string>
+  <string name="ADD_WITH_NFC">Добавить с помощью NFC</string>
+  <string name="scan_qr_code">Сканировать QR-код карты</string>
+  <string name="scan_camera">Сканировать карту</string>
+  <string name="qr_code_text">Наведите камеру на QR-код</string>
+  <string name="step">Шаг 1 из 6</string>
+  <string name="internet_connection_error_text">Ошибка подключения к Интернету</string>
+  <string name="try_again_text">Попробуйте еще раз</string>
+  <string name="skrit">Скрыть</string>
+  <string name="online_kredit">Онлайн микрозайм</string>
+  <string name="take_time_microloan">Рассмотрение заявки может занять несколько минут</string>
+  <string name="choose_policy">Выберите страховую компанию</string>
+  <string name="numbercard_gurantor">Введите номер карты поручителя</string>
+  <string name="gurantor_info">Ваш поручитель</string>
+  <string name="download_guarantee_agg">СКАЧАТЬ ДОГОВОР ПОРУЧИТЕЛЬСТВА</string>
+  <string name="download_insurance_ag">СКАЧАТЬ ДОГОВОР СТРАXОВОГО ПОЛИСА</string>
+  <string name="guarante">Поручительство</string>
+  <string name="insurance_policy">Страховой полис</string>
+  <string name="type_of_security">Вид обеспечение</string>
+  <string name="card_text">Карта</string>
+  <string name="step_6_of_6">Шаг 6 из 6</string>
+  <string name="product_text">Продукты</string>
+  <string name="exclusive_offert">Эксклюзивные \n предложения</string>
+  <string name="cards_text">Карты</string>
+  <string name="safes_text">Сейфы</string>
+  <string name="get_more">Получить еще</string>
+  <string name="graphic">Закрыть кредит</string>
+  <string name="redeption_text">Погашение</string>
+  <string name="payment_gragp_text">График платежей</string>
+  <string name="summa_amount_credit">Сумма займа</string>
+  <string name="monthly_payment">Ежемесячный платеж</string>
+  <string name="payment_period">Срок выплат</string>
+  <string name="choose_card_microloan">Выберите карту на которую хотите получить микрозайм</string>
+  <string name="to_obtain_mikroloan">Для получение микрозайм, нужно определить Ваше возможность получения кредита</string>
+  <string name="find_out_scoring">Узнать скоринг</string>
+  <string name="credit_amount">Сумма зачисления</string>
+  <string name="step26">Шаг 2 из 6</string>
+  <string name="step36">Шаг 3 из 6</string>
+  <string name="step46">Шаг 4 из 6</string>
+  <string name="step56">Шаг 5 из 6</string>
+  <string name="insurancedownload">Загрузка договора страхования…</string>
+  <string name="kafillik_download">Загрузка договора поручительства…</string>
+  <string name="application_accepted">Заявка принята</string>
+  <string name="success_text11">Средства поступят на счет в течение нескольких минут</string>
+  <string name="close_the_loan">Закрыть кредит</string>
+  <string name="do_you_really_closed_microloan">Вы действительно хотите закрыть кредит?</string>
+  <string name="close_microloan_text">Закрыть</string>
+  <string name="main_debt_text">Оснавной долг</string>
+  <string name="percent_text">Процент</string>
+  <string name="remainder_text">Остаток</string>
+  <string name="date">Дата</string>
+  <string name="payment">Платеж</string>
+  <string name="text_of_calculator">Внимание, калькулятор не гарантирует абсолютной точности расчетов</string>
+  <string name="type_of_security_text">Вид обеспечение</string>
+  <string name="credit_term_text">Срок кредита</string>
+  <string name="month_text_calc">мес</string>
+  <string name="interest_rate_text">Процентная ставка</string>
+  <string name="credit_calculator">Кредитный калькулятор</string>
+  <string name="waiting_scoring">Ожидание скоринга</string>
+  <string name="pnfl_number">Номер ПИНФЛ</string>
+  <string name="identification">Идентификация</string>
+  <string name="pnfl">ПИНФЛ</string>
+  <string name="info_my_id_tv">Для идентификации введите паспортные данные и загружите фото</string>
+  <string name="photo_user_tv">Фото пользователя</string>
+  <string name="consent_personal_data">Согласие на обработку персональных данных</string>
+  <string name="hint_passport_number">Номер паспорта</string>
+  <string name="seriya_passport">Серия паспорта</string>
+  <string name="birthday_hint">Дата рождения</string>
+  <string name="type_identification">Вид идентификации</string>
+  <string name="den">Выберите день рождения</string>
+  <string name="den_1">Пожалуйста, выберите свой день рождения правильно</string>
+  <string name="withdrawal_account">Списание со счета</string>
+  <string name="curenncy_text">Валюта</string>
+  <string name="recommendet_amount_text">Рекомендуемая сумма:</string>
+  <string name="deposit_amount_text">Сумма вклада</string>
+  <string name="open_deposit_min_sum_text">Открытие вклада на :</string>
+  <string name="my_deposit_text">Мои вклады</string>
+  <string name="end_date_text">Дата окончание</string>
+  <string name="deposit_history_text">История вклада</string>
+  <string name="close_deposit_text">Закрыть вклад</string>
+  <string name="get_deposit_text">Получить</string>
+  <string name="show_all_my_deposit_tex">Показать все мои вклады</string>
+  <string name="deposit_name">Название</string>
+  <string name="deposit_closing_date">Дата закрытия вклада</string>
+  <string name="cash_withdrawal_text">Снятие денег</string>
+  <string name="top_up_deposit_text">Пополнить вклад</string>
+  <string name="receiver_full_name">ФИО получателя</string>
+  <string name="app_name">AgroMobile</string>
+</resources>

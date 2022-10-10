@@ -1,0 +1,565 @@
+<resources>
+    <string name="app_name">AgroMobileRebrand</string>
+    <string name="bank_name">Agrobank</string>
+    <!--registration-->
+    <string name="registration_text">Ro\ʻyxatdan oʻtish</string>
+    <string name="regphonenumber_desc">Boshlash uchun telefon raqamingizni kiriting</string>
+    <string name="number_telephone">Telefon raqam</string>
+    <string name="code_from_sms">SMS kod</string>
+    <string name="resend_code">Kodni qayta yuborish</string>
+    <string name="enter_pincode">PIN kod yarating</string>
+    <string name="next_button">Keyingisi</string>
+    <string name="sms_code_phone_number">Ushbu raqamga faollashtirish kodi yuborildi</string>
+    <string name="zabil_parol_test">Parolni unutdingizmi?</string>
+    <string name="pin_kodni_tasdiqlash">PIN-kodni tasdiqlang</string>
+    <string name="zabil_pin_text">Kodni unutdingizmi?</string>
+    <string name="enter_your_pin">PIN kodingizni kiriting</string>
+    <string name="password_max_min_char">8 tadan va 20 ta belgidan oshmasligi kerak;</string>
+    <string name="uppercase_and_lovercase_letters">kamida bitta katta va bitta kichik harf;</string>
+    <string name="latin_and_cril_letters">faqat lotin yoki kirill harflari;</string>
+    <string name="add_single_character">kamida bitta raqam;</string>
+    <string name="arabiski_sifra">faqat arab raqamlari (0–9);</string>
+    <string name="special_character">kamida bitta maxsus belgi;</string>
+    <string name="pasword_unmatch">Parol mos emas</string>
+    <string name="wrong_password">Parol noto\'g\'ri</string>
+    <!--main menu_screen-->
+    <string name="main_menu">Asosiy</string>
+    <string name="payment_menu">To\'lov</string>
+    <string name="hisotory_menu">Hisobotlar</string>
+    <string name="showcase_menu">Vitrina</string>
+    <string name="chat_menu">Chat</string>
+    <string name="konstantin">Foydalanuvchi</string>
+    <string name="last_operations">Oxirgi operatsiyalar</string>
+    <string name="branches">Bankomatlar va filiallar</string>
+    <!--all my products screen-->
+    <string name="all_my_products">Mening mahsulotlarim</string>
+    <string name="create_card_button">Yangi karta, depozit, kredit</string>
+    <string name="deposit">Hissalar</string>
+    <string name="credits">Kreditlar</string>
+    <!--my card screen-->
+    <string name="my_card_toolbar_title">Mening kartam</string>
+    <string name="replenish">To\'ldirish</string>
+    <string name="bank_details">Rekvizitlar</string>
+    <!--settings_card inside my card screen-->
+    <string name="cash_withdrawal">Снятие наличных</string>
+    <string name="request_pincode">Запрашивать пин-код при оплате</string>
+    <string name="notification">Tranzaksiya haqida ogohlantirishlar</string>
+    <string name="settings_bottomsheet">Настройки</string>
+    <string name="save_bottomsheet">Saqlash</string>
+    <string name="detail_settings">Rekvizitlarni ko\'rsatish</string>
+    <string name="agropay_add">AgroPayga qo\'shish</string>
+    <string name="cvv">CVV kod olish</string>
+    <string name="edit_pincode">PIN-kodni o\'zgartirish</string>
+    <string name="block_card">Kartani bloklash</string>
+    <string name="exit_card">Kartani o\'chirish</string>
+    <!--new card screen-->
+    <string name="all_card_screen_title">Новая карта</string>
+    <string name="all_card_screen_desc_card">Оплата покупок, коммунальных платежей, перевода
+        денег на карты любых банков </string>
+    <string name="card_design">Оформление карты</string>
+    <string name="expire_date">Amal qilish muddati</string>
+    <string name="transfer_agrobank_card">Переводы между картами Агробанка    </string>
+    <string name="adventages_card">Преимущества карты    </string>
+    <string name="all_card_screen_block_card">При утрате карта блокируется через мобильное
+        приложение и деньги остаются на счету</string>
+    <string name="contactless_payment">Бесконтактная оплата с помощью Pay Pass</string>
+    <string name="every_accept">Принимается везде: в магазинах, гостиницах, на заправках</string>
+    <string name="atm">Четыре тысячи банкоматов под рукой</string>
+    <string name="feature_card">О возможностях карты </string>
+    <string name="service_rates">Тарифы обслуживания  </string>
+    <string name="all_card_screen_button">Оформить карту</string>
+    <!-- new credit screen-->
+    <string name="all_credit_screen_toolbar">Новый кредит</string>
+    <string name="all_credit_calculate">Рассчитать условия</string>
+    <string name="all_credit_personal_apps">Персольнальное предложение</string>
+    <string name="all_credit_education_loan">Кредит на образование</string>
+    <string name="all_credit_screen_sum_credit">Kredit miqdori</string>
+    <string name="all_credit_screen_expire_credit">To\'lov muddati</string>
+    <string name="all_credit_screen_disabled_person_credit">Nogironlar va etimlar uchun tarif</string>
+    <string name="percent_rate">Stavka foizi</string>
+    <string name="adventage_credit">Kredit imtiyozlari</string>
+    <string name="first_adv_credit">0% ставка для круглых сирот, детей из детских домов,
+        инвалидов I и II групп с детства  </string>
+    <string name="second_adv_credit">Любой вуз Узбекистана</string>
+    <string name="third_adv_credit">Быстрая оплата в банкоматах без комисии</string>
+    <string name="fourth_adv_credit">Одобрение онлайн в течении нескольких минут</string>
+    <string name="hint_enter_summ">Сумма до 20 000 000 сум</string>
+    <string name="hint_enter_date">Срок до 3 лет  </string>
+    <string name="rate_info">Ставка</string>
+    <string name="payment_mothly">Ежемесячный платеж</string>
+    <string name="rules_credit">Qarz oluvchilarga qo\'yiladigan talablar</string>
+    <string name="next_button_all_credit">Ariza qoldirish</string>
+    <!--profil screen-->
+    <string name="profil_toolbar_title">Profil</string>
+    <string name="security_toolbar_title">Xavfsizlik</string>
+    <string name="passport">Passport</string>
+    <string name="tin">TIN</string>
+    <string name="my_address">Mening manzillarim</string>
+    <string name="profil_settings">Sozlamalar</string>
+    <string name="answer">Savol javoblar</string>
+    <string name="about_apps">О приложении</string>
+    <!--payment success check-->
+    <string name="On_success">To\'landi</string>
+    <string name="on_succcessful">Siz to\'lovni muvvafaqiyatli amalga oshirdingiz</string>
+    <string name="To_main">Asosiyga</string>
+    <string name="show_chek">Kvitansiya va tafsilotlarni ko\'rsatish</string>
+    <!--payment error check-->
+    <string name="On_error">To\'lov amalga oshmadi</string>
+    <string name="On_error_message">To\'lov qabul qilinmadi, qayta urinib ko\'ring</string>
+    <string name="on_error_button">Qayta urinib ko\'ring</string>
+    <string name="write_help">Qo\'llab-quvvatlashga yozish</string>
+    <string name="succes_text">Сумовая карта будет доставлена20 декабря по адресу ул. Сагбан, 1.Когда будет готово, курьер свяжетсяс вами.</string>
+    <!--payment_translate_vp_item2-->
+    <string name="card_number_payment">По номеру карты</string>
+    <string name="phone_payment">По номеру телефона</string>
+    <string name="account_number">Hisob raqam bo\'yicha</string>
+    <string name="abroad">Chet elga pul yuborish</string>
+    <string name="between_account_number">O\'z hisoblari orasida</string>
+    <!--QR_Payment screen-->
+    <string name="qr_toolbar_title">QR to\'lovi</string>
+    <string name="qr_screen_hint">Наведите камеру на QR-код</string>
+    <!--QR for cards-->
+    <string name="qr_card_toolbar">QR для пополнения</string>
+    <string name="qr_code_send">Покажите или отправьте QR-код, тому, кто хочет перевести вам
+        деньги</string>
+    <string name="share_btn">Ulashish</string>
+    <!--payscreen-->
+    <string name="payscreen_toolbar">To\'lash</string>
+    <string name="organization">Tashkilot</string>
+    <string name="select_org">Tanlang</string>
+    <string name="check_info">Barcha ma\'lumotlar to\'g\'ri to\'ldirilganligini tekshiring</string>
+    <string name="from_card">Kartadan</string>
+    <string name="personal_number">Лицевой счет</string>
+    <string name="scan_check">Cканировать квитанцию</string>
+    <string name="sum_hint">So\'m</string>
+    <!--p2p payment screen-->
+    <string name="p2p_payment_toolbar">Karta raqami orqali</string>
+    <string name="edit1">Введите номер карты получателя</string>
+    <string name="edit_hint">Komissiya miqdori summa kiritilgandan keyin hisoblablanadi</string>
+    <string name="message_hint">Xabar</string>
+    <!--paynet screen -->
+    <string name="paynet_payment_toolbar">По номеру телефона</string>
+    <!--paynet screen bottomsheetdialog contacts-->
+    <string name="toolbar_sheet">Kontakt tanlang</string>
+    <string name="edittext_hint">Ism yoki telefon raqam</string>
+    <string name="tv_hint">Комиссия будет рассчитана после ввода суммы</string>
+    <!--vklad screen-->
+    <string name="vklad_toolbar">Новый вклад</string>
+    <string name="vklad_screen_button">Depozit ochish</string>
+    <string name="vklad_summ_credit">Сумма кредита</string>
+    <string name="vklad_2">по договору</string>
+    <string name="vklad_4">Преимущества вклада </string>
+    <string name="vklad_5">Откройте вклад и получите один из 55 подарков </string>
+    <string name="vklad_6">Для открытия вклада нужна пластиковая карта «Агробанка» </string>
+    <string name="vklad_7">Оформить карту</string>
+    <!-- vklad conditions first step-->
+    <string name="deposit_condition">Depozit shartlari</string>
+    <string name="deposit_expire">Muddati</string>
+    <string name="monthly_income">Oylik daromad</string>
+    <string name="all_income">Umumiy daromad</string>
+    <string name="expire_deposit">Depozit muddati</string>
+    <string name="rate_deposit">Ставка</string>
+    <!--deposit_payment_method screen-->
+    <string name="deposit_method_toolbar">Способ выплат</string>
+    <!--deposit success screen-->
+    <string name="deposit_success_main_tv">Вклад открыт</string>
+    <string name="deposit_success_main_desc">Доход по вкладу вы можете получить в Региональном
+        филиале по адресу ул. Сагбан, 1</string>
+    <!--depoist one item-->
+    <string name="deposit_btn1">Echish</string>
+    <string name="deposit_btn2">Пополнить</string>
+    <string name="deposit_btn3">Rekvizitlar</string>
+    <!--credit_one item-->
+    <string name="credit_btn2">To\'lov jadvali</string>
+    <string name="credit_one_toolbar">Образовательный</string>
+    <!--personal details-->
+    <string name="toolbar_personal_details">Личные данные</string>
+    <string name="firstname_personal_details">Имя</string>
+    <string name="lastname_personal_details">Фамилия</string>
+    <string name="middname_personal_details">Отчество</string>
+    <string name="email_personal_details">Email</string>
+    <!-- edit text error-->
+    <string name="name_error">Ошибка, введите еще раз.</string>
+    <string name="name_error_phone">Ошибка, введите правильный номер телефона.</string>
+    <!--toolbar_ monthly credit payment-->
+    <string name="toolbar_title">Ежемесячный доход</string>
+    <string name="hint_monthly_screen">Сумма в сумах</string>
+    <!--work experience screen-->
+    <string name="hint1">Стаж работы (месяцев)</string>
+    <string name="work_toolbar">Стаж работы</string>
+    <!--deposit first screen-->
+    <string name="toolbar">Условия кредита</string>
+    <!--deposit first screen-->
+    <string name="passport_toolbar">Паспортные данные</string>
+    <string name="family_toolbar">Семья</string>
+    <string name="delivery_toolbar">Доставка</string>
+    <!--Lang uz/ru/en-->
+    <string name="uzb">Uzb</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="test_text">Salom</string>
+    <string name="add_humo_card">Ushbu xizmatdan foydalanish uchun Humo kartangizni qo\'shing</string>
+    <string name="agropay_tv">Ushbu karta AgroPay orqali to\'lash uchun ishlatiladi</string>
+    <string name="spec_prop_id" translatable="false">Application</string>
+    <string name="spec_prop_serial" translatable="false">Serial:\u0020</string>
+    <string name="spec_prop_param" translatable="false">Parameter:\u0020</string>
+    <string name="spec_prop_version" translatable="false">Version:\u0020</string>
+    <string name="spec_prop_date" translatable="false">Validity:\u0020</string>
+    <string name="spec_prop_currency" translatable="false">Currency:\u0020</string>
+    <string name="spec_prop_count" translatable="false">Transactions:\u0020</string>
+    <string name="spec_prop_ecash" translatable="false">E-Cash:\u0020</string>
+    <string name="spec_prop_balance" translatable="false">Balance:\u0020</string>
+    <string name="spec_prop_tlimit" translatable="false">EC Single Transaction Limit:\u0020</string>
+    <string name="spec_prop_dlimit" translatable="false">EC Balance Limit:\u0020</string>
+    <string name="spec_prop_olimit" translatable="false">Overdraft limit:\u0020</string>
+    <string name="spec_prop_translog" translatable="false">Transaction Logs:</string>
+    <string name="spec_prop_access" translatable="false">Access denied</string>
+    <string name="spec_prop_exception" translatable="false">Error:</string>
+    <string name="spec_cur_unknown" translatable="false">""</string>
+    <string name="spec_cur_usd" translatable="false">USD</string>
+    <string name="spec_cur_cny" translatable="false">CNY</string>
+    <string name="spec_cur_hkd" translatable="false">HKD</string>
+    <string name="spec_app_unknown" translatable="false">Unknown Application</string>
+    <string name="spec_app_shenzhentong" translatable="false">Shenzhen Tong</string>
+    <string name="spec_app_quickpass" translatable="false">QuickPass (China UnionPay)</string>
+    <string name="spec_app_octopus_hk" translatable="false">Octopus Card (Hong Kong)</string>
+    <string name="spec_app_changantong" translatable="false">Changan Tong</string>
+    <string name="spec_app_wuhantong" translatable="false">Wuhan City Smart Card</string>
+    <string name="spec_app_beijing" translatable="false">Beijing Municipal Card</string>
+    <string name="spec_app_shanghai" translatable="false">Shanghai Card</string>
+    <string name="spec_app_debit" translatable="false">Debit Card (QuickPass)</string>
+    <string name="spec_app_credit" translatable="false">Credit Card (QuickPass)</string>
+    <string name="spec_app_qcredit" translatable="false">Quasi-credit cards (QuickPass)</string>
+    <string name="spec_app_tunion_ep" translatable="false">T-Union (Base)</string>
+    <string name="spec_app_tunion_ec" translatable="false">T-Union (Expanded)</string>
+    <string name="spec_app_cityunion" translatable="false">City Union ( %1$s )</string>
+    <string name="spec_zip_unknown" translatable="false">Unknown city</string>
+    <string name="info_nfc_not_support" translatable="false"> </string>
+    <string name="open_nfc" translatable="false">City Union ( %1$s )>Humo NFC</string>
+    <string name="info_main_copied" translatable="false">nfc</string>
+    <string name="block_card_info_dialog" translatable="false">City Union ( %1$s )>Do you really want to block the card?</string>
+    <string name="passport_serial_number" translatable="false">City Union ( %1$s )>Passport serial number</string>
+    <string name="passport_given_date" translatable="false">City Union ( %1$s )>Passport given date</string>
+    <string name="what_is_pinfl" translatable="false">City Union ( %1$s )>What is PINFL?</string>
+    <string name="name_unired_application" translatable="false">Name</string>
+    <string name="surname_unired_application" translatable="false">Surname</string>
+    <string name="patronymic_unired_application" translatable="false">Patronymic</string>
+    <string name="birth_date_unired_application" translatable="false">Birth date</string>
+    <string name="gender" translatable="false">Gender</string>
+    <string name="male" translatable="false">Male</string>
+    <string name="female" translatable="false">Female</string>
+    <string name="stir" translatable="false">Stir</string>
+    <string name="registered_address" translatable="false">Registered address</string>
+    <string name="lived_address" translatable="false">Lived address</string>
+    <string name="upload_passport_images" translatable="false">Upload passport images</string>
+    <string name="upload_image" translatable="false">Upload image</string>
+    <string name="payment_card_number" translatable="false">Payment card number</string>
+    <string name="terminate_or_block_this_session" translatable="false">Are you want to terminate or block this session?</string>
+    <string name="blocking_session" translatable="false">Blocking</string>
+    <string name="terminate" translatable="false">Terminate</string>
+    <string name="session_title" translatable="false">Devices</string>
+    <string name="this_devices" translatable="false">This device</string>
+    <string name="all_other_sessions" translatable="false">All other devices</string>
+    <string name="reliable_devices" translatable="false">Reliable devices</string>
+    <string name="unired_category" translatable="false">Categories</string>
+<!--    <string name="project_id" translatable="false">1.1.2</string>-->
+<!--    <string name="default_web_client_id">1.1.2</string>-->
+    <!--Biometric uz/ru/en-->
+    <string name="tizimga_kirish">Вход в систему</string>
+    <string name="biometrik_orqali_kirish"> Вход в систему с помощью биометрических информации</string>
+    <string name="bekor_qilish">Отмена</string>
+    <!-- poluchit nalichnie dengi-->
+    <string name="toolbar_get_cash">Наличные деньги</string>
+    <string name="summ_get_cash">Сумма снятие наличные деньги</string>
+    <string name="otmenit">Bekor qilish</string>
+    <string name="readcard">Kartani qurilmaning orqa tomoniga olib keling va ushlab turing. Sizning kartangiz ma\'lumotlari avtomatik ravishda o\'qiladi</string>
+    <string name="unreadcard">Agar u karta ma\'lumotlarini o\'qimasa:</string>
+    <string name="first">1.Kartada NFC belgisi mavjudligini tekshiring</string>
+    <string name="second">2.Telefon chexolini eching</string>
+    <string name="loadding">NFC-ga ulanadi va kartangizdan ma\'lumotlarni o\'qiydi</string>
+    <string name="valyuta_kursi_tool_title">Курсы валют</string>
+    <string name="setting_title">Sozlamalar</string>
+    <!--kartani blockka solish dialog uchun-->
+    <string name="block">Залокировать карту</string>
+    <string name="block_maintext">Вы действительно хотите заблокировать карту? Если заблокируете карту, вы можете разблокировать карту в вашем банке.</string>
+    <string name="button_tv">Блокировать</string>
+    <!--internet dialog uchun-->
+    <string name="no_internet">Нет интернета</string>
+    <string name="no_net_maintext">Кажется, сеть выключена. Включите ее в настройках или попробуйте загрузить данные еще раз</string>
+    <string name="no_net_btntv">Yangilash</string>
+    <!-- kartani o'chirish dialog uchun-->
+    <string name="delete_card">Удалить карту</string>
+    <string name="delete_card_maintv">Вы действительно хотите удалить карту? Если удалите карту, вы можете добавить карту в приложении повторно.</string>
+    <string name="delete_card_buttontv">Удалить</string>
+    <string name="card_fon_edit_text">Kartani fonini o\'zgartirish</string>
+    <string name="take_cvv">Получить CVV код</string>
+    <string name="create_new_password">Yangi parol yarating</string>
+    <string name="ustanovit">Agrobank mobil ilovasiga ulanish va kirish uchun yangi parol yarating</string>
+    <string name="enter_parol_hint">Parolni kiriting</string>
+    <string name="again_parol_hint5">Parolni tasdiqlang</string>
+    <string name="parol_sharti">Parol talablari</string>
+    <string name="biometric">Biometrik</string>
+    <string name="permission_face">Biometrik ma\ʼlumotlardan foydalanishga ruxsat berasizmi?</string>
+    <string name="info_biometric">Tizimga kirish uchun FaceID va TouchID dan foydalanamiz.</string>
+    <string name="permission">Ruxsat berish</string>
+    <string name="unpermission">Ruxsat bermaslik</string>
+    <string name="user_position">Hammasi</string>
+    <string name="user_fizik">Физическое лицо</string>
+    <string name="user_yurik">Юридическое лицо</string>
+    <string name="edit_pin_tool_title">Parolni o\'zgartirish</string>
+    <string name="parol_kiritish_tepasidagi_text">Eski parol</string>
+    <string name="hint_edit_parol_text">Eski parolni kiriting</string>
+    <string name="hint_edit_parol_text1">Yangi parolni kiriting</string>
+    <string name="add_new_password_text">Yangi parol</string>
+    <string name="parol_talablari_text">Parol talablari</string>
+    <string name="sample2">Смс информирование для карты в национальной валюте можно подключить воспользовавшись инфокиоском. Если ранее смс информирование уже было подключено и вы хотите подключить его к другому телефонному номеру, то сначала вам следует его отключить от старого номера и заново подключить к новому.</string>
+    <string name="search">Qidiruv</string>
+    <string name="titleFAQ">Savollar va javoblar</string>
+    <string name="permission_string">Ushbu dasturdan foydalanish uchun barcha so\'rovlarga ruxsat berishingiz kerak</string>
+    <string name="permission_string_two">Ruxsat so\'rash</string>
+    <string name="karta_olishni_tanlash_text">Выберите удобный способ получения карты.</string>
+    <string name="filialdan_olish_text">Заберу в филиале</string>
+    <string name="dastavka_qilish_text">Доставка по адресу</string>
+    <string name="fialni_tanlash_button_text">Выбрать филиал</string>
+    <string name="email_text">E-mail</string>
+    <string name="search_text_hint">Поиск</string>
+    <string name="save_button_text">Сохранить</string>
+    <string name="kurs_valyuta_text">MB valyuta kurslari</string>
+    <string name="mne_nujno_pomosh">Мне нужна помощь</string>
+    <string name="vvedit_parol_text">Введите пароль</string>
+    <!--Erro string-->
+    <string name="error_title">Ma\'lumot</string>
+    <string name="add_card_text">Karta qo\'shish</string>
+    <string name="all_my_product_text">Mening hamma mahsulotlarim</string>
+    <string name="main_screen_pod_text">Подключить</string>
+    <string name="pay_or_transfer_text">To\'lovni amalga oshirmoq</string>
+    <string name="agro_pay_text">Agro pay</string>
+    <string name="qr_text">QR</string>
+    <string name="all_curs_valyuta_text">Barcha valyuta kurslari</string>
+    <string name="purchase_text">Olish</string>
+    <string name="sale_text">Sotish</string>
+    <string name="nfc_off_and_ond_text">Iltimos NFCni aktivatsiya qiling va ilovaga qaytib kiring</string>
+    <string name="my_details_text">Mening ma\'lumotlarim</string>
+    <string name="shaxsiy_malumot_test">Shaxsiy ma\'lumotlar</string>
+    <string name="indentification_text">Identifikatsiya</string>
+    <string name="more_information">Batafsil hisoblashni ochish</string>
+    <string name="exit_profil">Chiqish</string>
+    <string name="operations_history_text">Operatsiyalar tarixi</string>
+    <string name="all_history_text">Hammasi</string>
+    <string name="exp_history_text">Chiqimlar</string>
+    <string name="inc_history_text">Kirimlar</string>
+    <!-- cartalar bulimi textlari -->
+    <string name="card_title_add">Karta nomi</string>
+    <string name="add_card">Karta raqami</string>
+    <string name="expire_card_date">OO/YY</string>
+    <string name="add_card_tv">Oldin qo\'shilgan kartalar</string>
+    <string name="add_card_main">Karta qo\'shish</string>
+    <string name="main_card">Asosiy karta</string>
+    <string name="history_of_payments">To\'lovlar tarixi</string>
+    <string name="choose_the_card">Kartani tanlang</string>
+    <string name="continue_button_text">Davom etish</string>
+    <!--information card -->
+    <string name="information">Ma\'lumot</string>
+    <string name="choose_card">Kartani tanlang</string>
+    <string name="o_zbek_tili_text">O’zbek tili</string>
+    <string name="payment_monitoring_text">To\'lovlarni monitoring qilish</string>
+    <string name="biometrik_auth_text">Biometriyadan foydalangan holda avtorizatsiya</string>
+    <string name="night_mode">Tungi rejim</string>
+    <string name="choose_the_language">Tilni tanlang</string>
+    <string name="sefaty_text">Xavfsizlik</string>
+    <string name="widgets_text">Vidjetlar</string>
+    <string name="public_offerta_text">Ommaviy oferta</string>
+    <string name="my_session_text">Mening sessiyalarim</string>
+    <string name="my_data_text">Mening ma\'lumotlarim</string>
+    <string name="recipients_card_number">Qabul qiluvchining karta raqami</string>
+    <string name="from_the_card">Kartadan</string>
+    <string name="by_phone_number">Telefon raqam orqali</string>
+    <string name="monday_text">Du</string>
+    <string name="tue_text">Se</string>
+    <string name="wed_text">Ch</string>
+    <string name="th_text">Pa</string>
+    <string name="fri_text">Ju</string>
+    <string name="sat_text">Sh</string>
+    <string name="sun_text">Ya</string>
+    <string name="phone_number_input">Qabul qiluvchining telefon raqami</string>
+    <string name="user_all_card_hide_showe">Barcha kartalarni ko\'rsatish</string>
+    <string name="agrobank_title">Agrobank</string>
+    <string name="history_empty_list_dialog_title">Karta tarixini ko\'rish uchun avval karta qo\'shishingiz kerak</string>
+    <string name="pay_payment_text">To\'lash</string>
+    <string name="transfer_text">O\'tazma</string>
+    <string name="qr_payment_sum">To\'lanishi kerak bo\'lgan miqdor</string>
+    <string name="user_all_card_hide">Kartalarni yashirish</string>
+    <string name="pay_transfer_text">To\'lovni amalga oshirish</string>
+    <string name="make_main_card">Asosiy karta qilish</string>
+    <string name="info_card_text">Karta haqida ma\'lumot</string>
+    <string name="delete_card_info_text">Haqiqatan ham kartani ilovadan o\'chirmoqchimisiz?</string>
+    <string name="delete_card_button">O\ʻchirish</string>
+    <string name="pin_code_typing">To\'lov paytida PIN-kod so\'rash</string>
+    <string name="block_card_info_text">Siz haqiqatan ham bu kartani bloklamoqchimisiz?</string>
+    <string name="block_card_text">Bloklash</string>
+    <string name="check_info_p2p_text">Barcha ma\'lumotlar to\'\g\'ri to\'ldirilganligini tekshiring</string>
+    <string name="rec_card_number_text">Qabul qiluvchining karta raqami</string>
+    <string name="full_name_or_card_owner">Karta egasini ismi sharifi</string>
+    <string name="time_text">Vaqt</string>
+    <string name="payment_amount">To\'lov miqdori</string>
+    <string name="commisions_text">Komissiya</string>
+    <string name="total_payment_amount">Umumiy to\'lov miqdori</string>
+    <string name="client_text">Mijoz</string>
+    <string name="bank_text">Bank</string>
+    <string name="payment_account">Hisob raqam</string>
+    <string name="card_number">Karta raqami</string>
+    <string name="card_expire_date">Karta amal muddati</string>
+    <string name="card_title_text">Karta nomi</string>
+    <string name="comission_amount">Komissiya miqdori</string>
+    <string name="card_type">Karta turi</string>
+    <string name="humo_pay_root">Xatolik, Sizda root-ga kirish huquqi ochiq deb gumon qilinmoqda, HUMO PAY ishlamaydi</string>
+    <string name="agro_pay_successful">Siz AgroPay orqali muvaffaqiyatli to\'lovni amalga oshirdingiz</string>
+    <string name="card_hold">Kartani qurilmaga yaqinroq olib keling va ushlab turing</string>
+    <string name="session_end_time">Seans tugash vaqti</string>
+    <string name="card_blocked">Karta bloklangan</string>
+    <string name="call_bank">Bank filialiga murojaat qiling</string>
+    <string name="this_device">Ushbu qurilma</string>
+    <string name="end_all_other_sians">Boshqa barcha seanslarni tugatish</string>
+    <string name="active_sessions">Aktiv seanslar</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="edit_text_tv">Изменить фото</string>
+    <string name="select_gallery">Выбрать готовый снимок</string>
+    <string name="bankomats">Bankomatlar</string>
+    <string name="filials">Filiallar</string>
+    <string name="curs_cb">MB valyuta kursi</string>
+    <string name="curs_main">Valyuta kursi</string>
+    <string name="exchange_rates">Valyuta kurslari</string>
+    <string name="qrcode_nomatch">QR kod noto\'g\'ri</string>
+    <string name="hint_input_filials">Manzil yoki filial nomi</string>
+    <string name="hint_input_bankomat">Manzil yoki bankomat nomi</string>
+    <string name="others">Boshqa</string>
+    <string name="payments">To\'lovlar</string>
+    <string name="more_about_loan">Kredit haqida batafsil</string>
+    <string name="map">Xaritada</string>
+    <string name="list_map">Ro\'yxat</string>
+    <string name="to_the_card">Kartaga</string>
+    <string name="mfo_text">МФО</string>
+    <string name="conversion_text">AQSh dollariga konvertatsiya qilinadigan miqdor</string>
+    <string name="currency_account">Chet el valyutasidagi hisob</string>
+    <string name="rate">Valyuta kursi:</string>
+    <string name="amount_withdrawal">Yechib olinadigan miqdor</string>
+    <string name="save_to_template">Shablonlarga saqlash</string>
+    <string name="error_text_conversion">Xato, summani qayta kiriting</string>
+    <string name="total_amount">Umumiy qiymat</string>
+    <string name="amount_to_convert">Konvertatsiya qilinadigan miqdor</string>
+    <string name="check_if_all_information">Barcha ma\'lumotlar to\'g\'ri to\'ldirilganligini tekshiring</string>
+    <string name="online_conversion_tool">Onlayn konvertatsiya</string>
+    <string name="uzs_to_usd">UZSdan USDga</string>
+    <string name="usd_to_uzs">USDdan UZSga</string>
+    <string name="thi_day_text">Актуально на</string>
+    <string name="all_payments">Barcha to\'lovlar</string>
+    <string name="accept_p2p_and_payment_text">So\'rov qayta ishlash uchun yuborildi</string>
+    <string name="name_of_service">Xizmat nomi</string>
+    <string name="location_of_qr_code_owner">QR kod egasining joylashuvi</string>
+    <string name="owner_location_qr_code">QR kod egasining ismi</string>
+    <string name="name_receiver_text">Qabul qiluvchining ismi</string>
+    <string name="dae_and_time_operation">Operataiya sanasi va vaqti</string>
+    <string name="go_map">Xaritalarga o\'tish</string>
+    <string name="min_amount_info_text">Minimal o\'tkazish summasi 5000 so\'m</string>
+    <string name="card_balance_less_text">Mablag\' etarli emas</string>
+    <string name="pogashenie">So\'ndirish</string>
+    <string name="kredit">Kredit</string>
+    <string name="agrobank_kredit_pog">Agrobank kreditini so\'ndirish</string>
+    <string name="number_anketa">Anketa raqami</string>
+    <string name="mfo">MFO</string>
+    <string name="minimalniy_sum">Eng kam to\'lov miqdori 500\nEng ko\'p to\'lov miqdori 5 000 000</string>
+    <string name="credit_details">Kredit tafsilotlari</string>
+    <string name="more">Ko\'proq</string>
+    <string name="choose_card_image">Karta fonini tanlang</string>
+    <string name="nothing_found">Hech narsa topilmadi</string>
+    <string name="clear_all">Hammasini tozalash</string>
+    <string name="gps">Ushbu funksiyadan foydalanish uchun siz GPS navigatorini yoqishingiz kerak</string>
+    <string name="turn_on">Yoqish</string>
+    <string name="copy_text">Nusxalandi</string>
+    <string name="last_payment">Oxirgi to\'lovlar</string>
+    <string name="card_exp_incorrect">Karta amal qilish muddati noto\'g\'ri</string>
+    <string name="agrobank_name">Agrobank</string>
+    <string name="add_card_tvvv">To\'lovlarni amalga oshirish uchun kartani qo\'shishingiz kerak</string>
+    <string name="ADD_WITH_NFC">NFC orqali qo\'shish</string>
+    <string name="scan_qr_code">Kartaning QR kodini skaner qilish</string>
+    <string name="scan_camera">Kartani skanerlash</string>
+    <string name="qr_code_text">Kamerangizni QR kodiga qarating</string>
+    <string name="step">1/6 Qadam</string>
+    <string name="internet_connection_error_text">Internetga ulanishda xato</string>
+    <string name="try_again_text">Qayta urinib ko\'ring</string>
+    <string name="skrit">Yashirish</string>
+    <string name="online_kredit">Onlayn mikroqarz</string>
+    <string name="take_time_microloan">Arizani ko\'rib chiqish bir necha daqiqa vaqt olishi mumkin</string>
+    <string name="choose_policy">Sug\'urta kompaniyasini tanlang</string>
+    <string name="numbercard_gurantor">Kafilning karta raqamini kiriting</string>
+    <string name="gurantor_info">Sizning kafilingiz</string>
+    <string name="download_guarantee_agg">KAFIL SHARTNOMASINI YUKLAB OLISH</string>
+    <string name="download_insurance_ag">SUG\'URTA SHARTNOMASINI YUKLAB OLISH</string>
+    <string name="guarante">Kafillik</string>
+    <string name="insurance_policy">Sug\'urta polisi</string>
+    <string name="type_of_security">Xavfsizlik turi</string>
+    <string name="card_text">Karta</string>
+    <string name="step_6_of_6">6/6 Qadam</string>
+    <string name="product_text">Mahsulotlar</string>
+    <string name="exclusive_offert">Eksklyuziv takliflar</string>
+    <string name="cards_text">Kartalar</string>
+    <string name="safes_text">Seyflar</string>
+    <string name="get_more">Yana olish</string>
+    <string name="graphic">Kreditni yopish</string>
+    <string name="redeption_text">To\'lash</string>
+    <string name="payment_gragp_text">To\'lov jadvali</string>
+    <string name="summa_amount_credit">Kredit miqdori</string>
+    <string name="monthly_payment">Oylik to\'lov</string>
+    <string name="payment_period">To\'lov muddati</string>
+    <string name="choose_card_microloan">Mikroqarz olmoqchi bo\'lgan kartangizni tanlang</string>
+    <string name="to_obtain_mikroloan">Mikroqarz olish uchun siz mikroqarz olish imkoniyatingizni aniqlashingiz kerak</string>
+    <string name="find_out_scoring">Skoringni bilish</string>
+    <string name="credit_amount">Kredit miqdori</string>
+    <string name="step26">2/6 Qadam</string>
+    <string name="step36">3/6 Qadam</string>
+    <string name="step46">4/6 Qadam</string>
+    <string name="step56">5/6 Qadam</string>
+    <string name="insurancedownload">Sug\'urta shartnomasi yuklanyapti…</string>
+    <string name="kafillik_download">Kafillik shartnomasi yuklanyapti…</string>
+    <string name="close_the_loan">Kreditni yopish</string>
+    <string name="do_you_really_closed_microloan">Haqiqatan ham kreditni yopishni xohlaysizmi?</string>
+    <string name="close_microloan_text">Yopish</string>
+    <string name="application_accepted">Ariza qabul qilindi</string>
+    <string name="success_text11">Mablag\'lar bir necha daqiqa ichida sizning hisobingizga tushadi</string>
+    <string name="main_debt_text">Asosiy qarz</string>
+    <string name="percent_text">Foiz</string>
+    <string name="remainder_text">Qolgani</string>
+    <string name="date">Sana</string>
+    <string name="payment">To\'lov</string>
+    <string name="text_of_calculator">Diqqat, kalkulyator hisob-kitoblarning mutlaq aniqligiga kafolat bermaydi.</string>
+    <string name="type_of_security_text">Xavfsizlik turi</string>
+    <string name="credit_term_text">Kredit muddati</string>
+    <string name="month_text_calc">oy</string>
+    <string name="interest_rate_text">Stavka foizi</string>
+    <string name="credit_calculator">Kredit kalkulyatori</string>
+    <string name="waiting_scoring">Skoring natijasini kutish</string>
+    <string name="pnfl_number">JSHSHIR raqami</string>
+    <string name="identification">Identifikatsiya</string>
+    <string name="pnfl">JSHSHIR</string>
+    <string name="info_my_id_tv">Identifikatsiyadan o\'tish uchun pasport ma\'lumotlarini kiriting va fotosuratni yuklang</string>
+    <string name="photo_user_tv">Foydalanuvchining surati</string>
+    <string name="consent_personal_data">Shaxsiy ma\'lumotlarni qayta ishlashga rozilik</string>
+    <string name="hint_passport_number">Pasport raqami</string>
+    <string name="seriya_passport">Pasport seriyasi</string>
+    <string name="birthday_hint">Tug\'ilgan sana</string>
+    <string name="type_identification">Identifikatsiya turi</string>
+    <string name="den">Tug\'ilgan kuningizni tanglang</string>
+    <string name="den_1">Iltimos, tug\'ilgan kuningizni to\'g\'ri tanlang</string>
+    <string name="withdrawal_account">Hisobdan pul echish</string>
+    <string name="curenncy_text">Valyuta</string>
+    <string name="recommendet_amount_text">Tavsiya etilgan miqdor:</string>
+    <string name="dostupno">Mavjud</string>
+    <string name="expire_credit">Muddati</string>
+    <string name="try_again">Qayta urunib ko\'rish</string>
+    <string name="successful_operation">Muvaffaqiyatli operatsiya</string>
+    <string name="success_identification_message">Siz identifikatsiyadan muvaffaqiyatli o\'tdingiz, endi siz uchun ko\'proq xizmatlar mavjud</string>
+    <string name="exitt">Chiqish</string>
+    <string name="exitt_programm">Haqiqatan ham ilovadan chiqmoqchimisiz?</string>
+    <string name="change_photo">O\'zgartirish"</string>
+    <string name="change_photo_tv">Haqiqatdan ham rasmni o\'zgartirmoqchimsiz?</string>
+</resources>

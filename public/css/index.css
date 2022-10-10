@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.continer {
+    width: 1302px;
+    margin: 0px auto;
+    /* height: 900px; */
+    border: solid 1px black
+}
+
+.device{
+    width: 1300px;
+    height: 50px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    background-color: whitesmoke;
+}
+
+.device span {
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    border: solid 1px rgb(218, 218, 218);
+
+}
+
+.setting{
+    width: 1300px;
+    position: fixed;
+    top: 49px;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border: solid 1px;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    margin-top: 95px;
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+}
+
+.titles {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    border: solid 1px rgb(216, 16, 16);
+}
+
+.title {
+    width: 100%;
+    display: flex;
+    padding: 5px;
+    margin-bottom: 20px;
+    flex-direction: column;
+    /* border: solid 1px blue; */
+    box-shadow: 0 0 5px rgba(119, 117, 117);
+}
+
+.title span {
+    /* margin-bottom: px; */
+    padding: 3px;
+}
+
+.title span p {
+    /* margin-bottom: 10px; */
+    display: flex;
+    padding: 3px;
+    border: solid 1px black;
+}
+
+.add-lang {
+    width: 100px;
+    background: rgb(93, 226, 129);
+    border: none;
+    padding: 2px;
+    border-radius: 20px;
+    color: white;
+}
+
+.newlang {
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+}
+
+.lang {
+    height: 20px;
+    padding: 10px;
+}
+
+.add-input {
+    display: flex;
+    align-items: center;
+}
+
+.del-img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.pagination{
+    display: flex;
+    margin: 10px auto;
+}
+
+.pagination img {
+    cursor: pointer;
+    margin: 5px;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.page p {
+    margin: 5px;
+}
+
+.del{
+    width: 20px;
+    margin-left: auto;
+    cursor: pointer;
+}
+
+.pagination .up {
+    margin-right: 20px;
+}
